@@ -1,0 +1,3346 @@
+fileFormatVersion: 2
+guid: d10bdb67384e16c48aad2a9d11c6f14d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5469170408418344512
+    second: NewCharacterNightShift_0
+  - first:
+      213: -1165069733634889542
+    second: NewCharacterNightShift_1
+  - first:
+      213: -8633944349271226683
+    second: NewCharacterNightShift_2
+  - first:
+      213: -162878324603381764
+    second: NewCharacterNightShift_3
+  - first:
+      213: -6351982732249422171
+    second: NewCharacterNightShift_4
+  - first:
+      213: -6332273488886410199
+    second: NewCharacterNightShift_5
+  - first:
+      213: 1345964548966818908
+    second: NewCharacterNightShift_6
+  - first:
+      213: 4008215089592353696
+    second: NewCharacterNightShift_7
+  - first:
+      213: 2762807756698294631
+    second: NewCharacterNightShift_8
+  - first:
+      213: -7195862444614141204
+    second: NewCharacterNightShift_9
+  - first:
+      213: 687133967425098124
+    second: NewCharacterNightShift_10
+  - first:
+      213: -2933178260850515026
+    second: NewCharacterNightShift_11
+  - first:
+      213: -2879769107609998264
+    second: NewCharacterNightShift_12
+  - first:
+      213: -1380261313990681361
+    second: NewCharacterNightShift_13
+  - first:
+      213: 7885633351087696814
+    second: NewCharacterNightShift_14
+  - first:
+      213: -66624929086345166
+    second: NewCharacterNightShift_15
+  - first:
+      213: -6613330848005368418
+    second: NewCharacterNightShift_16
+  - first:
+      213: -6203301317094827783
+    second: NewCharacterNightShift_17
+  - first:
+      213: 8435191863066671350
+    second: NewCharacterNightShift_18
+  - first:
+      213: -3017863224458187441
+    second: NewCharacterNightShift_19
+  - first:
+      213: 9161261477953340928
+    second: NewCharacterNightShift_20
+  - first:
+      213: 594282465246478273
+    second: NewCharacterNightShift_21
+  - first:
+      213: -6634748802989755687
+    second: NewCharacterNightShift_22
+  - first:
+      213: 9169238569903031908
+    second: NewCharacterNightShift_23
+  - first:
+      213: 516445205085127
+    second: NewCharacterNightShift_24
+  - first:
+      213: 277312561963457972
+    second: NewCharacterNightShift_25
+  - first:
+      213: -5023804800597274926
+    second: NewCharacterNightShift_26
+  - first:
+      213: -852783888393826082
+    second: NewCharacterNightShift_27
+  - first:
+      213: -5824321282391279579
+    second: NewCharacterNightShift_28
+  - first:
+      213: -552368166392790149
+    second: NewCharacterNightShift_29
+  - first:
+      213: 6179175045261593147
+    second: NewCharacterNightShift_30
+  - first:
+      213: 2468545294354765444
+    second: NewCharacterNightShift_31
+  - first:
+      213: 5899443836665471745
+    second: NewCharacterNightShift_32
+  - first:
+      213: 261950069670455771
+    second: NewCharacterNightShift_33
+  - first:
+      213: 7916170299236612439
+    second: NewCharacterNightShift_34
+  - first:
+      213: 2126186488435874350
+    second: NewCharacterNightShift_35
+  - first:
+      213: -2689759352899786691
+    second: NewCharacterNightShift_36
+  - first:
+      213: 1426840012409035655
+    second: NewCharacterNightShift_37
+  - first:
+      213: 6981992403520373848
+    second: NewCharacterNightShift_38
+  - first:
+      213: -3757329586664706721
+    second: NewCharacterNightShift_39
+  - first:
+      213: -8245304944870261849
+    second: NewCharacterNightShift_40
+  - first:
+      213: 467360064229731428
+    second: NewCharacterNightShift_41
+  - first:
+      213: -1281068096166967882
+    second: NewCharacterNightShift_42
+  - first:
+      213: -3389759503449784179
+    second: NewCharacterNightShift_43
+  - first:
+      213: -978339101607891592
+    second: NewCharacterNightShift_44
+  - first:
+      213: -9046459636842291561
+    second: NewCharacterNightShift_45
+  - first:
+      213: -2738604130032117555
+    second: NewCharacterNightShift_46
+  - first:
+      213: 5634717110197131684
+    second: NewCharacterNightShift_47
+  - first:
+      213: -4038222103812561319
+    second: NewCharacterNightShift_48
+  - first:
+      213: -801654517879337445
+    second: NewCharacterNightShift_49
+  - first:
+      213: -5987969639174508449
+    second: NewCharacterNightShift_50
+  - first:
+      213: -807169045188560333
+    second: NewCharacterNightShift_51
+  - first:
+      213: -1616776917713366976
+    second: NewCharacterNightShift_52
+  - first:
+      213: -3423527662731165698
+    second: NewCharacterNightShift_53
+  - first:
+      213: -8143007060309137476
+    second: NewCharacterNightShift_54
+  - first:
+      213: 9098571785232993256
+    second: NewCharacterNightShift_55
+  - first:
+      213: -6607367854809219246
+    second: NewCharacterNightShift_56
+  - first:
+      213: -8512985296758878709
+    second: NewCharacterNightShift_57
+  - first:
+      213: 5532760898515627880
+    second: NewCharacterNightShift_58
+  - first:
+      213: -5512782548740068323
+    second: NewCharacterNightShift_59
+  - first:
+      213: -6584693072509368005
+    second: NewCharacterNightShift_60
+  - first:
+      213: 8952746055272018559
+    second: NewCharacterNightShift_61
+  - first:
+      213: 3997555662441758362
+    second: NewCharacterNightShift_62
+  - first:
+      213: -4550910899396524016
+    second: NewCharacterNightShift_63
+  - first:
+      213: -6832383086366622512
+    second: NewCharacterNightShift_64
+  - first:
+      213: 445849134765270486
+    second: NewCharacterNightShift_65
+  - first:
+      213: -1358391271631558127
+    second: NewCharacterNightShift_66
+  - first:
+      213: -3031973699004956485
+    second: NewCharacterNightShift_67
+  - first:
+      213: 7622026596447845969
+    second: NewCharacterNightShift_68
+  - first:
+      213: 3405169683556446386
+    second: NewCharacterNightShift_69
+  - first:
+      213: -1962808472142662754
+    second: NewCharacterNightShift_70
+  - first:
+      213: 1282796519447649978
+    second: NewCharacterNightShift_71
+  - first:
+      213: 2068131437914138580
+    second: NewCharacterNightShift_72
+  - first:
+      213: -8778101588191915025
+    second: NewCharacterNightShift_73
+  - first:
+      213: -28685324436973067
+    second: NewCharacterNightShift_74
+  - first:
+      213: 1566832839283702227
+    second: NewCharacterNightShift_75
+  - first:
+      213: 6747231703817054215
+    second: NewCharacterNightShift_76
+  - first:
+      213: -5087212467460910675
+    second: NewCharacterNightShift_77
+  - first:
+      213: 2430574187299285183
+    second: NewCharacterNightShift_78
+  - first:
+      213: 2991685660760434121
+    second: NewCharacterNightShift_79
+  - first:
+      213: -6392088397744078739
+    second: NewCharacterNightShift_80
+  - first:
+      213: 4950271998714747207
+    second: NewCharacterNightShift_81
+  - first:
+      213: -7117680113780213846
+    second: NewCharacterNightShift_82
+  - first:
+      213: -7594348935054873686
+    second: NewCharacterNightShift_83
+  - first:
+      213: -2644889783314667287
+    second: NewCharacterNightShift_84
+  - first:
+      213: 1687978766015254568
+    second: NewCharacterNightShift_85
+  - first:
+      213: 6536165117900774911
+    second: NewCharacterNightShift_86
+  - first:
+      213: -8996513954197377962
+    second: NewCharacterNightShift_87
+  - first:
+      213: 4555820150644345161
+    second: NewCharacterNightShift_88
+  - first:
+      213: 8394251700650487017
+    second: NewCharacterNightShift_89
+  - first:
+      213: 7350001210734504568
+    second: NewCharacterNightShift_90
+  - first:
+      213: -6235449110809639327
+    second: NewCharacterNightShift_91
+  - first:
+      213: 6331604041635868976
+    second: NewCharacterNightShift_92
+  - first:
+      213: -7963761309986721559
+    second: NewCharacterNightShift_93
+  - first:
+      213: 7201909549248844462
+    second: NewCharacterNightShift_94
+  - first:
+      213: 1969316562233383856
+    second: NewCharacterNightShift_95
+  - first:
+      213: -4523374112659965074
+    second: NewCharacterNightShift_96
+  - first:
+      213: -2689306390911342795
+    second: NewCharacterNightShift_97
+  - first:
+      213: 2663583404339630783
+    second: NewCharacterNightShift_98
+  - first:
+      213: -3678119890837102134
+    second: NewCharacterNightShift_99
+  - first:
+      213: 1253654471442518427
+    second: NewCharacterNightShift_100
+  - first:
+      213: 148565935586481685
+    second: NewCharacterNightShift_101
+  - first:
+      213: -1907508310867282134
+    second: NewCharacterNightShift_102
+  - first:
+      213: 6189207625533958367
+    second: NewCharacterNightShift_103
+  - first:
+      213: 1596844446219926078
+    second: NewCharacterNightShift_104
+  - first:
+      213: -8983142583994326779
+    second: NewCharacterNightShift_105
+  - first:
+      213: 640039332439802843
+    second: NewCharacterNightShift_106
+  - first:
+      213: 5416258522283455017
+    second: NewCharacterNightShift_107
+  - first:
+      213: -3223278025125078361
+    second: NewCharacterNightShift_108
+  - first:
+      213: 3431646171395198405
+    second: NewCharacterNightShift_109
+  - first:
+      213: -4778240111469544935
+    second: NewCharacterNightShift_110
+  - first:
+      213: -4954155995339231741
+    second: NewCharacterNightShift_111
+  - first:
+      213: 684393816955934495
+    second: NewCharacterNightShift_112
+  - first:
+      213: 7822372411930652032
+    second: NewCharacterNightShift_113
+  - first:
+      213: -1094954020109837638
+    second: NewCharacterNightShift_114
+  - first:
+      213: -1553054511894356692
+    second: NewCharacterNightShift_115
+  - first:
+      213: -2132285471234656907
+    second: NewCharacterNightShift_116
+  - first:
+      213: 4293935576280235219
+    second: NewCharacterNightShift_117
+  - first:
+      213: -2984880428210123848
+    second: NewCharacterNightShift_118
+  - first:
+      213: -7564093780681267233
+    second: NewCharacterNightShift_119
+  - first:
+      213: -6498958730020238388
+    second: NewCharacterNightShift_120
+  - first:
+      213: -3324876772661693617
+    second: NewCharacterNightShift_121
+  - first:
+      213: 4006982562033228488
+    second: NewCharacterNightShift_122
+  - first:
+      213: -1521195583442604350
+    second: NewCharacterNightShift_123
+  - first:
+      213: 6181156074135201428
+    second: NewCharacterNightShift_124
+  - first:
+      213: -5400448276574815664
+    second: NewCharacterNightShift_125
+  - first:
+      213: 7845441306321296374
+    second: NewCharacterNightShift_126
+  - first:
+      213: -1989399348426068954
+    second: NewCharacterNightShift_127
+  - first:
+      213: -119148391967957986
+    second: NewCharacterNightShift_128
+  - first:
+      213: -526172546536145676
+    second: NewCharacterNightShift_129
+  - first:
+      213: 3661679212420556564
+    second: NewCharacterNightShift_130
+  - first:
+      213: -1406615702248911900
+    second: NewCharacterNightShift_131
+  - first:
+      213: 7836745752481436017
+    second: NewCharacterNightShift_132
+  - first:
+      213: 5859182652343159774
+    second: NewCharacterNightShift_133
+  - first:
+      213: 1872982875573944836
+    second: NewCharacterNightShift_134
+  - first:
+      213: -1827211143885590911
+    second: NewCharacterNightShift_135
+  - first:
+      213: -4144732906787549781
+    second: NewCharacterNightShift_136
+  - first:
+      213: -3907703601940799138
+    second: NewCharacterNightShift_137
+  - first:
+      213: -7601331050608781511
+    second: NewCharacterNightShift_138
+  - first:
+      213: -8653922739838668342
+    second: NewCharacterNightShift_139
+  - first:
+      213: 8878374320547867377
+    second: NewCharacterNightShift_140
+  - first:
+      213: -3527287265907442945
+    second: NewCharacterNightShift_141
+  - first:
+      213: -8816593935999381548
+    second: NewCharacterNightShift_142
+  - first:
+      213: -1401650217631995661
+    second: NewCharacterNightShift_143
+  - first:
+      213: -2032454153970974419
+    second: NewCharacterNightShift_144
+  - first:
+      213: 8645468260498507110
+    second: NewCharacterNightShift_145
+  - first:
+      213: -1332502137103928501
+    second: NewCharacterNightShift_146
+  - first:
+      213: -8997631577932157285
+    second: NewCharacterNightShift_147
+  - first:
+      213: -1933696521879738606
+    second: NewCharacterNightShift_148
+  - first:
+      213: -5068020995643497080
+    second: NewCharacterNightShift_149
+  - first:
+      213: 2064606338063639458
+    second: NewCharacterNightShift_150
+  - first:
+      213: -3594792951009884972
+    second: NewCharacterNightShift_151
+  - first:
+      213: -9161612358992171797
+    second: NewCharacterNightShift_152
+  - first:
+      213: -3661213374210517771
+    second: NewCharacterNightShift_153
+  - first:
+      213: 8820297642534609526
+    second: NewCharacterNightShift_154
+  - first:
+      213: 6910005894478089170
+    second: NewCharacterNightShift_155
+  - first:
+      213: 8698506042241528554
+    second: NewCharacterNightShift_156
+  - first:
+      213: 2637782284192648880
+    second: NewCharacterNightShift_157
+  - first:
+      213: -4459663325938627746
+    second: NewCharacterNightShift_158
+  - first:
+      213: -8362630999108853912
+    second: NewCharacterNightShift_159
+  - first:
+      213: 4458853929147375475
+    second: NewCharacterNightShift_160
+  - first:
+      213: -3948247011995816529
+    second: NewCharacterNightShift_161
+  - first:
+      213: -4941252274767579124
+    second: NewCharacterNightShift_162
+  - first:
+      213: 8798834077364296804
+    second: NewCharacterNightShift_163
+  - first:
+      213: 7538920135206724185
+    second: NewCharacterNightShift_164
+  - first:
+      213: -6961577193040944717
+    second: NewCharacterNightShift_165
+  - first:
+      213: -8773414817111435541
+    second: NewCharacterNightShift_166
+  - first:
+      213: -7090225483335114284
+    second: NewCharacterNightShift_167
+  - first:
+      213: -3204797826952646477
+    second: NewCharacterNightShift_168
+  - first:
+      213: -6529896864429111219
+    second: NewCharacterNightShift_169
+  - first:
+      213: 4135548813920750960
+    second: NewCharacterNightShift_170
+  - first:
+      213: 8645053726757331493
+    second: NewCharacterNightShift_171
+  - first:
+      213: 2218619262942057912
+    second: NewCharacterNightShift_172
+  - first:
+      213: 6563306289793463159
+    second: NewCharacterNightShift_173
+  - first:
+      213: 8634970486095567818
+    second: NewCharacterNightShift_174
+  - first:
+      213: -2822260163988645615
+    second: NewCharacterNightShift_175
+  - first:
+      213: 2860401003133721693
+    second: NewCharacterNightShift_176
+  - first:
+      213: 7256425207496201674
+    second: NewCharacterNightShift_177
+  - first:
+      213: 7919815711969947183
+    second: NewCharacterNightShift_178
+  - first:
+      213: -1403544083683049578
+    second: NewCharacterNightShift_179
+  - first:
+      213: -6498739629727799135
+    second: NewCharacterNightShift_180
+  - first:
+      213: -7343248853448758439
+    second: NewCharacterNightShift_181
+  - first:
+      213: -4176441645876442935
+    second: NewCharacterNightShift_182
+  - first:
+      213: -5892681953172397142
+    second: NewCharacterNightShift_183
+  - first:
+      213: 5151998319144629377
+    second: NewCharacterNightShift_184
+  - first:
+      213: -3350744570115000875
+    second: NewCharacterNightShift_185
+  - first:
+      213: -8981653611915223963
+    second: NewCharacterNightShift_186
+  - first:
+      213: -3469720621986611980
+    second: NewCharacterNightShift_187
+  - first:
+      213: -381400306302389650
+    second: NewCharacterNightShift_188
+  - first:
+      213: -3231581277275884636
+    second: NewCharacterNightShift_189
+  - first:
+      213: -1667202398890844176
+    second: NewCharacterNightShift_190
+  - first:
+      213: -3791698652597729063
+    second: NewCharacterNightShift_191
+  - first:
+      213: 7324396946762355810
+    second: NewCharacterNightShift_192
+  - first:
+      213: 1813648605024223395
+    second: NewCharacterNightShift_193
+  - first:
+      213: 5776250824905205857
+    second: NewCharacterNightShift_194
+  - first:
+      213: -3096294584007950406
+    second: NewCharacterNightShift_195
+  - first:
+      213: 928321180801306847
+    second: NewCharacterNightShift_196
+  - first:
+      213: -7383012679529228279
+    second: NewCharacterNightShift_197
+  - first:
+      213: -3706500666913648809
+    second: NewCharacterNightShift_198
+  - first:
+      213: -6682774874116617153
+    second: NewCharacterNightShift_199
+  - first:
+      213: -2562084903180123679
+    second: NewCharacterNightShift_200
+  - first:
+      213: -7281012140663983581
+    second: NewCharacterNightShift_201
+  - first:
+      213: -2687000451983043412
+    second: NewCharacterNightShift_202
+  - first:
+      213: 1896265425832498275
+    second: NewCharacterNightShift_203
+  - first:
+      213: 4793085788543377389
+    second: NewCharacterNightShift_204
+  - first:
+      213: 7753939850387944557
+    second: NewCharacterNightShift_205
+  - first:
+      213: 8567035584071975239
+    second: NewCharacterNightShift_206
+  - first:
+      213: 1489320733915779602
+    second: NewCharacterNightShift_207
+  - first:
+      213: 6144106722682028607
+    second: NewCharacterNightShift_208
+  - first:
+      213: -6058695125805942395
+    second: NewCharacterNightShift_209
+  - first:
+      213: -6098495982889085687
+    second: NewCharacterNightShift_210
+  - first:
+      213: 7610023822896210066
+    second: NewCharacterNightShift_211
+  - first:
+      213: -2139216718160433127
+    second: NewCharacterNightShift_212
+  - first:
+      213: -701210078044766642
+    second: NewCharacterNightShift_213
+  - first:
+      213: -3079582965582113645
+    second: NewCharacterNightShift_214
+  - first:
+      213: 2831792627809983494
+    second: NewCharacterNightShift_215
+  - first:
+      213: 8349209318999573208
+    second: NewCharacterNightShift_216
+  - first:
+      213: 4606720551556260804
+    second: NewCharacterNightShift_217
+  - first:
+      213: 8102676678523754724
+    second: NewCharacterNightShift_218
+  - first:
+      213: 946803509102550499
+    second: NewCharacterNightShift_219
+  - first:
+      213: -2932628158813732972
+    second: NewCharacterNightShift_220
+  - first:
+      213: 388120983933514704
+    second: NewCharacterNightShift_221
+  - first:
+      213: -3663750843472236916
+    second: NewCharacterNightShift_222
+  - first:
+      213: -7067623062348870419
+    second: NewCharacterNightShift_223
+  - first:
+      213: 7728698747983889201
+    second: NewCharacterNightShift_224
+  - first:
+      213: -8350148454877542400
+    second: NewCharacterNightShift_225
+  - first:
+      213: 3521989098462158592
+    second: NewCharacterNightShift_226
+  - first:
+      213: 3524667128244858224
+    second: NewCharacterNightShift_227
+  - first:
+      213: -1287672843957768094
+    second: NewCharacterNightShift_228
+  - first:
+      213: 1601226445879373745
+    second: NewCharacterNightShift_229
+  - first:
+      213: 7665078064590240593
+    second: NewCharacterNightShift_230
+  - first:
+      213: 3559645975388416351
+    second: NewCharacterNightShift_231
+  - first:
+      213: -1443256054915825332
+    second: NewCharacterNightShift_232
+  - first:
+      213: 4894745721578494282
+    second: NewCharacterNightShift_233
+  - first:
+      213: 1169004448528194136
+    second: NewCharacterNightShift_234
+  - first:
+      213: 2761101752192035103
+    second: NewCharacterNightShift_235
+  - first:
+      213: 3216217147888969348
+    second: NewCharacterNightShift_236
+  - first:
+      213: 3531648218240649265
+    second: NewCharacterNightShift_237
+  - first:
+      213: -539383217934800060
+    second: NewCharacterNightShift_238
+  - first:
+      213: -1195301834441357455
+    second: NewCharacterNightShift_239
+  - first:
+      213: -2688578695412175817
+    second: NewCharacterNightShift_240
+  - first:
+      213: 4380677689791476071
+    second: NewCharacterNightShift_241
+  - first:
+      213: -4588692041634112512
+    second: NewCharacterNightShift_242
+  - first:
+      213: -3591485080187294104
+    second: NewCharacterNightShift_243
+  - first:
+      213: -1724742405047917209
+    second: NewCharacterNightShift_244
+  - first:
+      213: -4834035361192902266
+    second: NewCharacterNightShift_245
+  - first:
+      213: -8576262238381108351
+    second: NewCharacterNightShift_246
+  - first:
+      213: 2027718962101524630
+    second: NewCharacterNightShift_247
+  - first:
+      213: -304316773741342103
+    second: NewCharacterNightShift_248
+  - first:
+      213: -6032876468505958342
+    second: NewCharacterNightShift_249
+  - first:
+      213: -8312764649111929693
+    second: NewCharacterNightShift_250
+  - first:
+      213: 8083001353461009027
+    second: NewCharacterNightShift_251
+  - first:
+      213: 410277116656948582
+    second: NewCharacterNightShift_252
+  - first:
+      213: 3384827513070746626
+    second: NewCharacterNightShift_253
+  - first:
+      213: -6116742654346476478
+    second: NewCharacterNightShift_254
+  - first:
+      213: -2105360220489827569
+    second: NewCharacterNightShift_255
+  - first:
+      213: -1659285509641131621
+    second: NewCharacterNightShift_256
+  - first:
+      213: -8030576414420365140
+    second: NewCharacterNightShift_257
+  - first:
+      213: -242605684502169374
+    second: NewCharacterNightShift_258
+  - first:
+      213: 1832382694799151959
+    second: NewCharacterNightShift_259
+  - first:
+      213: 7783854389642608482
+    second: NewCharacterNightShift_260
+  - first:
+      213: 7051940875854639326
+    second: NewCharacterNightShift_261
+  - first:
+      213: 5892459829257764013
+    second: NewCharacterNightShift_262
+  - first:
+      213: -8065992001634549724
+    second: NewCharacterNightShift_263
+  - first:
+      213: -8481093373002849450
+    second: NewCharacterNightShift_264
+  - first:
+      213: -845594836781887982
+    second: NewCharacterNightShift_265
+  - first:
+      213: 5440345973333596188
+    second: NewCharacterNightShift_266
+  - first:
+      213: -38704097588007019
+    second: NewCharacterNightShift_267
+  - first:
+      213: 273999298972079817
+    second: NewCharacterNightShift_268
+  - first:
+      213: 7573617128736579305
+    second: NewCharacterNightShift_269
+  - first:
+      213: -68057267037577862
+    second: NewCharacterNightShift_270
+  - first:
+      213: -8202273763525100703
+    second: NewCharacterNightShift_271
+  - first:
+      213: -6149041493214507059
+    second: NewCharacterNightShift_272
+  - first:
+      213: -5838187083359105961
+    second: NewCharacterNightShift_273
+  - first:
+      213: -2773266190666592785
+    second: NewCharacterNightShift_274
+  - first:
+      213: 5480206745635574158
+    second: NewCharacterNightShift_275
+  - first:
+      213: -5176281595572552062
+    second: NewCharacterNightShift_276
+  - first:
+      213: -1659438008831306718
+    second: NewCharacterNightShift_277
+  - first:
+      213: 4310783163335911158
+    second: NewCharacterNightShift_278
+  - first:
+      213: -1777747475321907588
+    second: NewCharacterNightShift_279
+  - first:
+      213: -8210707232387836634
+    second: NewCharacterNightShift_280
+  - first:
+      213: 1388791189193857930
+    second: NewCharacterNightShift_281
+  - first:
+      213: -3768924417491364593
+    second: NewCharacterNightShift_282
+  - first:
+      213: -4251228947048688703
+    second: NewCharacterNightShift_283
+  - first:
+      213: 1446838308060579440
+    second: NewCharacterNightShift_284
+  - first:
+      213: 8581806080014266332
+    second: NewCharacterNightShift_285
+  - first:
+      213: 2523797003323005424
+    second: NewCharacterNightShift_286
+  - first:
+      213: 3656710163769863752
+    second: NewCharacterNightShift_287
+  - first:
+      213: -9147942594940569078
+    second: NewCharacterNightShift_288
+  - first:
+      213: -1818856292503157819
+    second: NewCharacterNightShift_289
+  - first:
+      213: -604478714230705922
+    second: NewCharacterNightShift_290
+  - first:
+      213: 2951489502666520780
+    second: NewCharacterNightShift_291
+  - first:
+      213: -4150688662264515338
+    second: NewCharacterNightShift_292
+  - first:
+      213: -7963339841354663691
+    second: NewCharacterNightShift_293
+  - first:
+      213: -4770279311576978933
+    second: NewCharacterNightShift_294
+  - first:
+      213: -1011829310188804526
+    second: NewCharacterNightShift_295
+  - first:
+      213: -2849782593498246584
+    second: NewCharacterNightShift_296
+  - first:
+      213: 7453272369721466643
+    second: NewCharacterNightShift_297
+  - first:
+      213: 61053856310158759
+    second: NewCharacterNightShift_298
+  - first:
+      213: -9172237475454577573
+    second: NewCharacterNightShift_299
+  - first:
+      213: -749221785847452998
+    second: NewCharacterNightShift_300
+  - first:
+      213: -3526430447567629536
+    second: NewCharacterNightShift_301
+  - first:
+      213: -8970736686791544365
+    second: NewCharacterNightShift_302
+  - first:
+      213: 2099375325869548887
+    second: NewCharacterNightShift_303
+  - first:
+      213: -3622138968198728897
+    second: NewCharacterNightShift_304
+  - first:
+      213: -5257550382191394960
+    second: NewCharacterNightShift_305
+  - first:
+      213: 417189687121468195
+    second: NewCharacterNightShift_306
+  - first:
+      213: 4753304229552408797
+    second: NewCharacterNightShift_307
+  - first:
+      213: -7947132327341911247
+    second: NewCharacterNightShift_308
+  - first:
+      213: 5570479454737201187
+    second: NewCharacterNightShift_309
+  - first:
+      213: -6350874962441899120
+    second: NewCharacterNightShift_310
+  - first:
+      213: 1085608998429538703
+    second: NewCharacterNightShift_311
+  - first:
+      213: -8835854058727852849
+    second: NewCharacterNightShift_312
+  - first:
+      213: -5967106583050082478
+    second: NewCharacterNightShift_313
+  - first:
+      213: 67283876602599444
+    second: NewCharacterNightShift_314
+  - first:
+      213: -1369336685792987504
+    second: NewCharacterNightShift_315
+  - first:
+      213: -4230924367765473419
+    second: NewCharacterNightShift_316
+  - first:
+      213: -2443007470944352650
+    second: NewCharacterNightShift_317
+  - first:
+      213: 2383077476366974885
+    second: NewCharacterNightShift_318
+  - first:
+      213: -5525739090737741159
+    second: NewCharacterNightShift_319
+  - first:
+      213: 5799757417865031126
+    second: NewCharacterNightShift_320
+  - first:
+      213: 947001203986259795
+    second: NewCharacterNightShift_321
+  - first:
+      213: -1185937477360640174
+    second: NewCharacterNightShift_322
+  - first:
+      213: 4812741012961634665
+    second: NewCharacterNightShift_323
+  - first:
+      213: -1617977550593346255
+    second: NewCharacterNightShift_324
+  - first:
+      213: -6040245027757927561
+    second: NewCharacterNightShift_325
+  - first:
+      213: -3616460865074519932
+    second: NewCharacterNightShift_326
+  - first:
+      213: 5848791315359441629
+    second: NewCharacterNightShift_327
+  - first:
+      213: -7268879488632985118
+    second: NewCharacterNightShift_328
+  - first:
+      213: 4138033695833376809
+    second: NewCharacterNightShift_329
+  - first:
+      213: 1174097937963896784
+    second: NewCharacterNightShift_330
+  - first:
+      213: -933507958594597006
+    second: NewCharacterNightShift_331
+  - first:
+      213: 3110617613808377516
+    second: NewCharacterNightShift_332
+  - first:
+      213: -4237245322794481131
+    second: NewCharacterNightShift_333
+  - first:
+      213: -21420984698103095
+    second: NewCharacterNightShift_334
+  - first:
+      213: -1393459985900857875
+    second: NewCharacterNightShift_335
+  - first:
+      213: 1286763947139245970
+    second: NewCharacterNightShift_336
+  - first:
+      213: -3107515747971273841
+    second: NewCharacterNightShift_337
+  - first:
+      213: 5082611623795195301
+    second: NewCharacterNightShift_338
+  - first:
+      213: -933058938682337450
+    second: NewCharacterNightShift_339
+  - first:
+      213: 1865940958671391418
+    second: NewCharacterNightShift_340
+  - first:
+      213: 7178051583624983414
+    second: NewCharacterNightShift_341
+  - first:
+      213: -7444816727495787845
+    second: NewCharacterNightShift_342
+  - first:
+      213: -1350916053184646091
+    second: NewCharacterNightShift_343
+  - first:
+      213: 2321351332711808187
+    second: NewCharacterNightShift_344
+  - first:
+      213: -6745550758008291409
+    second: NewCharacterNightShift_345
+  - first:
+      213: 5279851984626805316
+    second: NewCharacterNightShift_346
+  - first:
+      213: -8027326333466694616
+    second: NewCharacterNightShift_347
+  - first:
+      213: -2481142306802163343
+    second: NewCharacterNightShift_348
+  - first:
+      213: 5379929870089355376
+    second: NewCharacterNightShift_349
+  - first:
+      213: 6277504685101432983
+    second: NewCharacterNightShift_350
+  - first:
+      213: -1725606529793174955
+    second: NewCharacterNightShift_351
+  - first:
+      213: -2416936136246655710
+    second: NewCharacterNightShift_352
+  - first:
+      213: -3268320370044930498
+    second: NewCharacterNightShift_353
+  - first:
+      213: 3483333735981688797
+    second: NewCharacterNightShift_354
+  - first:
+      213: -4757594657315821538
+    second: NewCharacterNightShift_355
+  - first:
+      213: -2983334612633428813
+    second: NewCharacterNightShift_356
+  - first:
+      213: -7426106841407910391
+    second: NewCharacterNightShift_357
+  - first:
+      213: -7053453870100636161
+    second: NewCharacterNightShift_358
+  - first:
+      213: -39210433798263152
+    second: NewCharacterNightShift_359
+  - first:
+      213: 1990939810068190298
+    second: NewCharacterNightShift_360
+  - first:
+      213: 771314623102611958
+    second: NewCharacterNightShift_361
+  - first:
+      213: 3837237397791717000
+    second: NewCharacterNightShift_362
+  - first:
+      213: 611197371855488572
+    second: NewCharacterNightShift_363
+  - first:
+      213: 6213230510024624978
+    second: NewCharacterNightShift_364
+  - first:
+      213: 6811848615734743288
+    second: NewCharacterNightShift_365
+  - first:
+      213: -1415643465503020255
+    second: NewCharacterNightShift_366
+  - first:
+      213: -6778512268566326211
+    second: NewCharacterNightShift_367
+  - first:
+      213: 343982214650751366
+    second: NewCharacterNightShift_368
+  - first:
+      213: 8214401353656975361
+    second: NewCharacterNightShift_369
+  - first:
+      213: -8194355419245719373
+    second: NewCharacterNightShift_370
+  - first:
+      213: -4029519612952904216
+    second: NewCharacterNightShift_371
+  - first:
+      213: 5884736154261756079
+    second: NewCharacterNightShift_372
+  - first:
+      213: -771971724424800714
+    second: NewCharacterNightShift_373
+  - first:
+      213: -6201784259348561536
+    second: NewCharacterNightShift_374
+  - first:
+      213: 5336726206308332388
+    second: NewCharacterNightShift_375
+  - first:
+      213: -3222139314192832738
+    second: NewCharacterNightShift_376
+  - first:
+      213: 7523110433395286371
+    second: NewCharacterNightShift_377
+  - first:
+      213: 8747841554528708161
+    second: NewCharacterNightShift_378
+  - first:
+      213: 7959670284414269362
+    second: NewCharacterNightShift_379
+  - first:
+      213: -6904918327595448455
+    second: NewCharacterNightShift_380
+  - first:
+      213: -4707120727727177250
+    second: NewCharacterNightShift_381
+  - first:
+      213: 9102018551777717059
+    second: NewCharacterNightShift_382
+  - first:
+      213: -7701465293874703889
+    second: NewCharacterNightShift_383
+  - first:
+      213: 6815339979455873462
+    second: NewCharacterNightShift_384
+  - first:
+      213: -1509916395247901779
+    second: NewCharacterNightShift_385
+  - first:
+      213: 8717509467090640779
+    second: NewCharacterNightShift_386
+  - first:
+      213: 1564683584861162100
+    second: NewCharacterNightShift_387
+  - first:
+      213: 6837983810302605692
+    second: NewCharacterNightShift_388
+  - first:
+      213: -7761645299119277788
+    second: NewCharacterNightShift_389
+  - first:
+      213: -6708009789749803688
+    second: NewCharacterNightShift_390
+  - first:
+      213: 7159784135469363606
+    second: NewCharacterNightShift_391
+  - first:
+      213: 8657770470340572366
+    second: NewCharacterNightShift_392
+  - first:
+      213: 7018284943875664248
+    second: NewCharacterNightShift_393
+  - first:
+      213: 9104435455915087950
+    second: NewCharacterNightShift_394
+  - first:
+      213: 1557356366864493561
+    second: NewCharacterNightShift_395
+  - first:
+      213: -918416309683241350
+    second: NewCharacterNightShift_396
+  - first:
+      213: -8335455633774625417
+    second: NewCharacterNightShift_397
+  - first:
+      213: 3531181914084436288
+    second: NewCharacterNightShift_398
+  - first:
+      213: 6606469829397173534
+    second: NewCharacterNightShift_399
+  - first:
+      213: -685397427311898520
+    second: NewCharacterNightShift_400
+  - first:
+      213: -4072286138221282118
+    second: NewCharacterNightShift_401
+  - first:
+      213: 3430042403008280530
+    second: NewCharacterNightShift_402
+  - first:
+      213: -3133948397546019467
+    second: NewCharacterNightShift_403
+  - first:
+      213: -6946281382391711346
+    second: NewCharacterNightShift_404
+  - first:
+      213: 3539363018806313822
+    second: NewCharacterNightShift_405
+  - first:
+      213: -5041850046394952057
+    second: NewCharacterNightShift_406
+  - first:
+      213: 2964690048437463644
+    second: NewCharacterNightShift_407
+  - first:
+      213: -4653314139524749493
+    second: NewCharacterNightShift_408
+  - first:
+      213: -857939262114916961
+    second: NewCharacterNightShift_409
+  - first:
+      213: -2856085770094357124
+    second: NewCharacterNightShift_410
+  - first:
+      213: -4422982365609022160
+    second: NewCharacterNightShift_411
+  - first:
+      213: -6928028409713928564
+    second: NewCharacterNightShift_412
+  - first:
+      213: 8648432130407090342
+    second: NewCharacterNightShift_413
+  - first:
+      213: -4863773643057081919
+    second: NewCharacterNightShift_414
+  - first:
+      213: -4945832079303315024
+    second: NewCharacterNightShift_415
+  - first:
+      213: 5855042893212974755
+    second: NewCharacterNightShift_416
+  - first:
+      213: -7877862738625786269
+    second: NewCharacterNightShift_417
+  - first:
+      213: 5375982073299488276
+    second: NewCharacterNightShift_418
+  - first:
+      213: 8501166086162989656
+    second: NewCharacterNightShift_419
+  - first:
+      213: -3120621249614968196
+    second: NewCharacterNightShift_420
+  - first:
+      213: -7785863898050889640
+    second: NewCharacterNightShift_421
+  - first:
+      213: -9185019044221167563
+    second: NewCharacterNightShift_422
+  - first:
+      213: -8699556238759460948
+    second: NewCharacterNightShift_423
+  - first:
+      213: 2040805590950481076
+    second: NewCharacterNightShift_424
+  - first:
+      213: 7675178922413749286
+    second: NewCharacterNightShift_425
+  - first:
+      213: 3418546795473778566
+    second: NewCharacterNightShift_426
+  - first:
+      213: 4281275148706075829
+    second: NewCharacterNightShift_427
+  - first:
+      213: 6645140481434011359
+    second: NewCharacterNightShift_428
+  - first:
+      213: -1999950645761933417
+    second: NewCharacterNightShift_429
+  - first:
+      213: -2851089373782410026
+    second: NewCharacterNightShift_430
+  - first:
+      213: 2865440344114831101
+    second: NewCharacterNightShift_431
+  - first:
+      213: -7535096340371471697
+    second: NewCharacterNightShift_432
+  - first:
+      213: 8353157906972503476
+    second: NewCharacterNightShift_433
+  - first:
+      213: -3565609923167085919
+    second: NewCharacterNightShift_434
+  - first:
+      213: -120616043861924086
+    second: NewCharacterNightShift_435
+  - first:
+      213: 5466589468984902728
+    second: NewCharacterNightShift_436
+  - first:
+      213: -4049600224861817555
+    second: NewCharacterNightShift_437
+  - first:
+      213: -5775271269120832311
+    second: NewCharacterNightShift_438
+  - first:
+      213: -208134830767944973
+    second: NewCharacterNightShift_439
+  - first:
+      213: -8466178221781836090
+    second: NewCharacterNightShift_440
+  - first:
+      213: 5327434568801199816
+    second: NewCharacterNightShift_441
+  - first:
+      213: 5257084921994967276
+    second: NewCharacterNightShift_442
+  - first:
+      213: 5466393720369903024
+    second: NewCharacterNightShift_443
+  - first:
+      213: 7173945784818806542
+    second: NewCharacterNightShift_444
+  - first:
+      213: -7336532770685081185
+    second: NewCharacterNightShift_445
+  - first:
+      213: -3891405956125268141
+    second: NewCharacterNightShift_446
+  - first:
+      213: -7116071205013422714
+    second: NewCharacterNightShift_447
+  - first:
+      213: -3944660543253745382
+    second: NewCharacterNightShift_448
+  - first:
+      213: -4328590065878806522
+    second: NewCharacterNightShift_449
+  - first:
+      213: -4090871495234564081
+    second: NewCharacterNightShift_450
+  - first:
+      213: 7809920175014063285
+    second: NewCharacterNightShift_451
+  - first:
+      213: 1835367060653128361
+    second: NewCharacterNightShift_452
+  - first:
+      213: 1058719492387007969
+    second: NewCharacterNightShift_453
+  - first:
+      213: -4833664917778843458
+    second: NewCharacterNightShift_454
+  - first:
+      213: 7627237731066740155
+    second: NewCharacterNightShift_455
+  - first:
+      213: 864364805173417608
+    second: NewCharacterNightShift_456
+  - first:
+      213: -2086030719952775535
+    second: NewCharacterNightShift_457
+  - first:
+      213: -8768030873815459275
+    second: NewCharacterNightShift_458
+  - first:
+      213: -4154977881849723612
+    second: NewCharacterNightShift_459
+  - first:
+      213: 6013450030584329873
+    second: NewCharacterNightShift_460
+  - first:
+      213: 6762523410594533586
+    second: NewCharacterNightShift_461
+  - first:
+      213: 4255023087995092139
+    second: NewCharacterNightShift_462
+  - first:
+      213: -4016578971903726166
+    second: NewCharacterNightShift_463
+  - first:
+      213: 8123956770870310680
+    second: NewCharacterNightShift_464
+  - first:
+      213: -3420617668804426812
+    second: NewCharacterNightShift_465
+  - first:
+      213: 7875189204986021635
+    second: NewCharacterNightShift_466
+  - first:
+      213: -8212865000392331829
+    second: NewCharacterNightShift_467
+  - first:
+      213: 1460262591294074257
+    second: NewCharacterNightShift_468
+  - first:
+      213: -6009180362557794674
+    second: NewCharacterNightShift_469
+  - first:
+      213: -4464516302741494032
+    second: NewCharacterNightShift_470
+  - first:
+      213: 367200966042377269
+    second: NewCharacterNightShift_471
+  - first:
+      213: 4166501706620210930
+    second: NewCharacterNightShift_472
+  - first:
+      213: 2872230909660758418
+    second: NewCharacterNightShift_473
+  - first:
+      213: 5367938573501570343
+    second: NewCharacterNightShift_474
+  - first:
+      213: -7012292528148292333
+    second: NewCharacterNightShift_475
+  - first:
+      213: 6598229303439360368
+    second: NewCharacterNightShift_476
+  - first:
+      213: -1129572360238633975
+    second: NewCharacterNightShift_477
+  - first:
+      213: 4080206776201418124
+    second: NewCharacterNightShift_478
+  - first:
+      213: 6970454930463722274
+    second: NewCharacterNightShift_479
+  - first:
+      213: -6704921766454990390
+    second: NewCharacterNightShift_480
+  - first:
+      213: -5534402351347168013
+    second: NewCharacterNightShift_481
+  - first:
+      213: 7194756252146477627
+    second: NewCharacterNightShift_482
+  - first:
+      213: 6884550621417067081
+    second: NewCharacterNightShift_483
+  - first:
+      213: 1350164930433991576
+    second: NewCharacterNightShift_484
+  - first:
+      213: -3469179822534303770
+    second: NewCharacterNightShift_485
+  - first:
+      213: -5592530123845200425
+    second: NewCharacterNightShift_486
+  - first:
+      213: -7817115419723348637
+    second: NewCharacterNightShift_487
+  - first:
+      213: 6167906857340502645
+    second: NewCharacterNightShift_488
+  - first:
+      213: 4173877828130376709
+    second: NewCharacterNightShift_489
+  - first:
+      213: 523075110146518916
+    second: NewCharacterNightShift_490
+  - first:
+      213: -1254559929460499640
+    second: NewCharacterNightShift_491
+  - first:
+      213: -2718755943416054592
+    second: NewCharacterNightShift_492
+  - first:
+      213: -724985317426052270
+    second: NewCharacterNightShift_493
+  - first:
+      213: -7555729666005783572
+    second: NewCharacterNightShift_494
+  - first:
+      213: 1628799544983827301
+    second: NewCharacterNightShift_495
+  - first:
+      213: -7900799682924169980
+    second: NewCharacterNightShift_496
+  - first:
+      213: 8636291768895308779
+    second: NewCharacterNightShift_497
+  - first:
+      213: 2499643411653725794
+    second: NewCharacterNightShift_498
+  - first:
+      213: 300656228751527899
+    second: NewCharacterNightShift_499
+  - first:
+      213: 8846307416122185565
+    second: NewCharacterNightShift_500
+  - first:
+      213: -2182143875159028728
+    second: NewCharacterNightShift_501
+  - first:
+      213: 6250771659015366308
+    second: NewCharacterNightShift_502
+  - first:
+      213: -8533494314837447748
+    second: NewCharacterNightShift_503
+  - first:
+      213: 4599070663729721442
+    second: NewCharacterNightShift_504
+  - first:
+      213: -9206174663524267509
+    second: NewCharacterNightShift_505
+  - first:
+      213: -5435881933329742641
+    second: NewCharacterNightShift_506
+  - first:
+      213: -8350434551597160343
+    second: NewCharacterNightShift_507
+  - first:
+      213: -2443840759806414180
+    second: NewCharacterNightShift_508
+  - first:
+      213: -1312522663841374126
+    second: NewCharacterNightShift_509
+  - first:
+      213: 7027238602608656500
+    second: NewCharacterNightShift_510
+  - first:
+      213: 8676389045053908389
+    second: NewCharacterNightShift_511
+  - first:
+      213: -1226907774254817506
+    second: NewCharacterNightShift_512
+  - first:
+      213: 960325961850653956
+    second: NewCharacterNightShift_513
+  - first:
+      213: 1331499781773635538
+    second: NewCharacterNightShift_514
+  - first:
+      213: -3710702254887476361
+    second: NewCharacterNightShift_515
+  - first:
+      213: -2189003548796409387
+    second: NewCharacterNightShift_516
+  - first:
+      213: -2129228989450874428
+    second: NewCharacterNightShift_517
+  - first:
+      213: 4286567237105011301
+    second: NewCharacterNightShift_518
+  - first:
+      213: -7158731708169971457
+    second: NewCharacterNightShift_519
+  - first:
+      213: 1918686694026411263
+    second: NewCharacterNightShift_520
+  - first:
+      213: 980837705679693086
+    second: NewCharacterNightShift_521
+  - first:
+      213: 3384210796516838282
+    second: NewCharacterNightShift_522
+  - first:
+      213: 7468903747538997183
+    second: NewCharacterNightShift_523
+  - first:
+      213: -4320738545555759122
+    second: NewCharacterNightShift_524
+  - first:
+      213: 4945490214249062312
+    second: NewCharacterNightShift_525
+  - first:
+      213: -6550280938048634982
+    second: NewCharacterNightShift_526
+  - first:
+      213: -7813409308950281226
+    second: NewCharacterNightShift_527
+  - first:
+      213: -2649944906363740181
+    second: NewCharacterNightShift_528
+  - first:
+      213: -4529313545850170998
+    second: NewCharacterNightShift_529
+  - first:
+      213: 4761470715494565637
+    second: NewCharacterNightShift_530
+  - first:
+      213: -1305759740509369221
+    second: NewCharacterNightShift_531
+  - first:
+      213: 8582009404689895887
+    second: NewCharacterNightShift_532
+  - first:
+      213: 3315827570723085029
+    second: NewCharacterNightShift_533
+  - first:
+      213: -6249182468888846313
+    second: NewCharacterNightShift_534
+  - first:
+      213: 3869664913890033556
+    second: NewCharacterNightShift_535
+  - first:
+      213: -4174221335162815005
+    second: NewCharacterNightShift_536
+  - first:
+      213: 8124060771582362964
+    second: NewCharacterNightShift_537
+  - first:
+      213: -543841024813817807
+    second: NewCharacterNightShift_538
+  - first:
+      213: -8658469753152702909
+    second: NewCharacterNightShift_539
+  - first:
+      213: 1025590722038530450
+    second: NewCharacterNightShift_540
+  - first:
+      213: 1962777936568822844
+    second: NewCharacterNightShift_541
+  - first:
+      213: 4375570841957802644
+    second: NewCharacterNightShift_542
+  - first:
+      213: -7999624484340969197
+    second: NewCharacterNightShift_543
+  - first:
+      213: 3737038205602825585
+    second: NewCharacterNightShift_544
+  - first:
+      213: 7320455578800249563
+    second: NewCharacterNightShift_545
+  - first:
+      213: 8760644935679115183
+    second: NewCharacterNightShift_546
+  - first:
+      213: -5498632797743075841
+    second: NewCharacterNightShift_547
+  - first:
+      213: -4144055990214050624
+    second: NewCharacterNightShift_548
+  - first:
+      213: -2794118215507925714
+    second: NewCharacterNightShift_549
+  - first:
+      213: -7402650177099395782
+    second: NewCharacterNightShift_550
+  - first:
+      213: -560800222029305744
+    second: NewCharacterNightShift_551
+  - first:
+      213: 8780105572205595124
+    second: NewCharacterNightShift_552
+  - first:
+      213: 8506352484137128437
+    second: NewCharacterNightShift_553
+  - first:
+      213: 2861524154464194028
+    second: NewCharacterNightShift_554
+  - first:
+      213: 2929384749762231674
+    second: NewCharacterNightShift_555
+  - first:
+      213: -9146622485242206211
+    second: NewCharacterNightShift_556
+  - first:
+      213: -2515089185711663590
+    second: NewCharacterNightShift_557
+  - first:
+      213: 963262796527323244
+    second: NewCharacterNightShift_558
+  - first:
+      213: -5925555670851054123
+    second: NewCharacterNightShift_559
+  - first:
+      213: -5071867158790257419
+    second: NewCharacterNightShift_560
+  - first:
+      213: -4648943295026160237
+    second: NewCharacterNightShift_561
+  - first:
+      213: -8059129240903297024
+    second: NewCharacterNightShift_562
+  - first:
+      213: 6065458982466711266
+    second: NewCharacterNightShift_563
+  - first:
+      213: 2600470017335289206
+    second: NewCharacterNightShift_564
+  - first:
+      213: 6962458531404858868
+    second: NewCharacterNightShift_565
+  - first:
+      213: 4215710565876673734
+    second: NewCharacterNightShift_566
+  - first:
+      213: -8278176636524264620
+    second: NewCharacterNightShift_567
+  - first:
+      213: 4453711967207991112
+    second: NewCharacterNightShift_568
+  - first:
+      213: 5817971452446207083
+    second: NewCharacterNightShift_569
+  - first:
+      213: 5709348854017683395
+    second: NewCharacterNightShift_570
+  - first:
+      213: -6863502968977426546
+    second: NewCharacterNightShift_571
+  - first:
+      213: 8111639641258168736
+    second: NewCharacterNightShift_572
+  - first:
+      213: 7397539311722607549
+    second: NewCharacterNightShift_573
+  - first:
+      213: 2136826091867831259
+    second: NewCharacterNightShift_574
+  - first:
+      213: -2820989282395374234
+    second: NewCharacterNightShift_575
+  - first:
+      213: 1070334421972695181
+    second: NewCharacterNightShift_576
+  - first:
+      213: 3870506602504613846
+    second: NewCharacterNightShift_577
+  - first:
+      213: 8236480131523964052
+    second: NewCharacterNightShift_578
+  - first:
+      213: -2410487901377186324
+    second: NewCharacterNightShift_579
+  - first:
+      213: 4871973918313676618
+    second: NewCharacterNightShift_580
+  - first:
+      213: -645298109077502447
+    second: NewCharacterNightShift_581
+  - first:
+      213: -9068477968163787657
+    second: NewCharacterNightShift_582
+  - first:
+      213: -8718641606955181943
+    second: NewCharacterNightShift_583
+  - first:
+      213: 3443442693394503825
+    second: NewCharacterNightShift_584
+  - first:
+      213: 1641716316099080106
+    second: NewCharacterNightShift_585
+  - first:
+      213: -5531072855521866550
+    second: NewCharacterNightShift_586
+  - first:
+      213: 7958240410239389382
+    second: NewCharacterNightShift_587
+  - first:
+      213: -1187994328758683991
+    second: NewCharacterNightShift_588
+  - first:
+      213: 3083045136173234275
+    second: NewCharacterNightShift_589
+  - first:
+      213: -4130689200517637789
+    second: NewCharacterNightShift_590
+  - first:
+      213: -508430481189310149
+    second: NewCharacterNightShift_591
+  - first:
+      213: 4282331486395262151
+    second: NewCharacterNightShift_592
+  - first:
+      213: -1821525280469722712
+    second: NewCharacterNightShift_593
+  - first:
+      213: 6064150033870913747
+    second: NewCharacterNightShift_594
+  - first:
+      213: 1193067362242080962
+    second: NewCharacterNightShift_595
+  - first:
+      213: 1163660788334306013
+    second: NewCharacterNightShift_596
+  - first:
+      213: -2524599831709085897
+    second: NewCharacterNightShift_597
+  - first:
+      213: 3009207332154775312
+    second: NewCharacterNightShift_598
+  - first:
+      213: 2295808817409631203
+    second: NewCharacterNightShift_599
+  - first:
+      213: 5112121566149558651
+    second: NewCharacterNightShift_600
+  - first:
+      213: -8665607758066624964
+    second: NewCharacterNightShift_601
+  - first:
+      213: -5051750834957416802
+    second: NewCharacterNightShift_602
+  - first:
+      213: 6576416776542241220
+    second: NewCharacterNightShift_603
+  - first:
+      213: -404673575954971644
+    second: NewCharacterNightShift_604
+  - first:
+      213: 2702885567994330099
+    second: NewCharacterNightShift_605
+  - first:
+      213: -6452296759735908393
+    second: NewCharacterNightShift_606
+  - first:
+      213: -8043450106535769739
+    second: NewCharacterNightShift_607
+  - first:
+      213: -2011294698903628785
+    second: NewCharacterNightShift_608
+  - first:
+      213: 7070494217887374961
+    second: NewCharacterNightShift_609
+  - first:
+      213: 5705751775851026559
+    second: NewCharacterNightShift_610
+  - first:
+      213: -9136028667090051620
+    second: NewCharacterNightShift_611
+  - first:
+      213: 3872610474709328194
+    second: NewCharacterNightShift_612
+  - first:
+      213: 5980373557126994288
+    second: NewCharacterNightShift_613
+  - first:
+      213: 959724538344357767
+    second: NewCharacterNightShift_614
+  - first:
+      213: -3772859302034736812
+    second: NewCharacterNightShift_615
+  - first:
+      213: -5882823079136035745
+    second: NewCharacterNightShift_616
+  - first:
+      213: -7941636439367530266
+    second: NewCharacterNightShift_617
+  - first:
+      213: -16532640329892621
+    second: NewCharacterNightShift_618
+  - first:
+      213: 7859057674337676822
+    second: NewCharacterNightShift_619
+  - first:
+      213: 7074876527691589892
+    second: NewCharacterNightShift_620
+  - first:
+      213: -1454983976436833884
+    second: NewCharacterNightShift_621
+  - first:
+      213: 6451864806273007995
+    second: NewCharacterNightShift_622
+  - first:
+      213: -5179695896586429034
+    second: NewCharacterNightShift_623
+  - first:
+      213: 8312560238912365535
+    second: NewCharacterNightShift_624
+  - first:
+      213: 4661197162469645071
+    second: NewCharacterNightShift_625
+  - first:
+      213: 1891699393166993469
+    second: NewCharacterNightShift_626
+  - first:
+      213: -3179684514766462877
+    second: NewCharacterNightShift_627
+  - first:
+      213: 8939996233208275992
+    second: NewCharacterNightShift_628
+  - first:
+      213: -5793428277518229460
+    second: NewCharacterNightShift_629
+  - first:
+      213: -5612954955139746275
+    second: NewCharacterNightShift_630
+  - first:
+      213: -8527715792733675034
+    second: NewCharacterNightShift_631
+  - first:
+      213: 816272790183171094
+    second: NewCharacterNightShift_632
+  - first:
+      213: 3797653068876453014
+    second: NewCharacterNightShift_633
+  - first:
+      213: -3484225044302152101
+    second: NewCharacterNightShift_634
+  - first:
+      213: -6776164640941224261
+    second: NewCharacterNightShift_635
+  - first:
+      213: 5007896998484829586
+    second: NewCharacterNightShift_636
+  - first:
+      213: -2404518100479989899
+    second: NewCharacterNightShift_637
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 148
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NewCharacterNightShift_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 803
+        width: 102
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1852e8d7a9914b0800000000000000
+      internalID: -5469170408418344512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 803
+        width: 102
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab822240047d4dfe0800000000000000
+      internalID: -1165069733634889542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_2
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 802
+        width: 103
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c68233eb511e2880800000000000000
+      internalID: -8633944349271226683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_3
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 803
+        width: 108
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf79768d6075dbdf0800000000000000
+      internalID: -162878324603381764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 804
+        width: 99
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6abd8fb5939d7a0800000000000000
+      internalID: -6351982732249422171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_5
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 804
+        width: 95
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9245d4acfce3f18a0800000000000000
+      internalID: -6332273488886410199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_6
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 803
+        width: 92
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54af6540a3dda210800000000000000
+      internalID: 1345964548966818908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_7
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 804
+        width: 95
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a34386336a00a730800000000000000
+      internalID: 4008215089592353696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_8
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 804
+        width: 90
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76912b84407775620800000000000000
+      internalID: 2762807756698294631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_9
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 804
+        width: 87
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea33306b39232c90800000000000000
+      internalID: -7195862444614141204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_10
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 804
+        width: 89
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c815a79e3b0398900800000000000000
+      internalID: 687133967425098124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_11
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 804
+        width: 90
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea36b1399e14b47d0800000000000000
+      internalID: -2933178260850515026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_12
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 804
+        width: 89
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c23c911410908d0800000000000000
+      internalID: -2879769107609998264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_13
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 804
+        width: 93
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec1f5ad5a358dce0800000000000000
+      internalID: -1380261313990681361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 547
+        width: 97
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab2e80c0c56f6d60800000000000000
+      internalID: 7885633351087696814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 546
+        width: 101
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2307f90eafc431ff0800000000000000
+      internalID: -66624929086345166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_16
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 545
+        width: 104
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95d186f1aab834a0800000000000000
+      internalID: -6613330848005368418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_17
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 544
+        width: 105
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f899df815279e9a0800000000000000
+      internalID: -6203301317094827783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_18
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 561
+        width: 104
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8ba52de42df0570800000000000000
+      internalID: 8435191863066671350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_19
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 562
+        width: 101
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d647df2656e16d0800000000000000
+      internalID: -3017863224458187441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_20
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 562
+        width: 106
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00601e796c6532f70800000000000000
+      internalID: 9161261477953340928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_21
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 562
+        width: 107
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf7245e0c05f3800800000000000000
+      internalID: 594282465246478273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_22
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 564
+        width: 99
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2f8d7bd13ace3a0800000000000000
+      internalID: -6634748802989755687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_23
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 564
+        width: 90
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46681eb06edaf3f70800000000000000
+      internalID: 9169238569903031908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_24
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 564
+        width: 90
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbbef444b5d10000800000000000000
+      internalID: 516445205085127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_25
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 564
+        width: 92
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdd59b4e4639d300800000000000000
+      internalID: 277312561963457972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_26
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 564
+        width: 91
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de4f7fa62cd74ab0800000000000000
+      internalID: -5023804800597274926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_27
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 564
+        width: 93
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed01c1e529d4a24f0800000000000000
+      internalID: -852783888393826082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 306
+        width: 99
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528f159f6aadb2fa0800000000000000
+      internalID: -5824321282391279579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_29
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 304
+        width: 107
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b738ce844189558f0800000000000000
+      internalID: -552368166392790149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_30
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 304
+        width: 100
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a86c907f6d0c550800000000000000
+      internalID: 6179175045261593147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 303
+        width: 107
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4865af5cdd8024220800000000000000
+      internalID: 2468545294354765444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_32
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 306
+        width: 100
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10320d0b9e80fd150800000000000000
+      internalID: 5899443836665471745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_33
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 305
+        width: 104
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9a8935332a2a300800000000000000
+      internalID: 261950069670455771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_34
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 304
+        width: 105
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759fe7b02f2ebdd60800000000000000
+      internalID: 7916170299236612439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_35
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 305
+        width: 99
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a9471a85bb18d10800000000000000
+      internalID: 2126186488435874350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_36
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 311
+        width: 100
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38af179e1e0caad0800000000000000
+      internalID: -2689759352899786691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_37
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 312
+        width: 89
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b54fa7e672dc310800000000000000
+      internalID: 1426840012409035655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_38
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 311
+        width: 93
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854ce4c491505e060800000000000000
+      internalID: 6981992403520373848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_39
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 311
+        width: 88
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5de8cae5a84bdbc0800000000000000
+      internalID: -3757329586664706721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_40
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 311
+        width: 88
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab7c3096dac29d80800000000000000
+      internalID: -8245304944870261849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_41
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 312
+        width: 84
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ced9290856c7600800000000000000
+      internalID: 467360064229731428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_42
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 97
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5c1ea9a5bb83ee0800000000000000
+      internalID: -1281068096166967882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_43
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 110
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d800fdaf0b725f0d0800000000000000
+      internalID: -3389759503449784179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_44
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 48
+        width: 106
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d69c245cd3c62f0800000000000000
+      internalID: -978339101607891592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_45
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 49
+        width: 104
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e1b17f3e4847280800000000000000
+      internalID: -9046459636842291561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_46
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 49
+        width: 109
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc89401bd068ef9d0800000000000000
+      internalID: -2738604130032117555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_47
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 48
+        width: 105
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a99d139b59823e40800000000000000
+      internalID: 5634717110197131684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_48
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 48
+        width: 107
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9562f1a546a55f7c0800000000000000
+      internalID: -4038222103812561319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_49
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 48
+        width: 112
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e073d9673ffd4f0800000000000000
+      internalID: -801654517879337445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_50
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 50
+        width: 95
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50fd2bb65576eca0800000000000000
+      internalID: -5987969639174508449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_51
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 49
+        width: 97
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a38dba70c5cc4f0800000000000000
+      internalID: -807169045188560333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_52
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 49
+        width: 89
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040d4aa95fd0099e0800000000000000
+      internalID: -1616776917713366976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_53
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 49
+        width: 92
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff7f28babf2d70d0800000000000000
+      internalID: -3423527662731165698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_54
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 49
+        width: 89
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7a6ced83a3efe80800000000000000
+      internalID: -8143007060309137476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_55
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 48
+        width: 93
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb443615de944e70800000000000000
+      internalID: 9098571785232993256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_56
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 127
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ff2c181f9ed44a0800000000000000
+      internalID: -6607367854809219246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_57
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 4
+        width: 159
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e4090f9fccbd980800000000000000
+      internalID: -8512985296758878709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_58
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 4
+        width: 156
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fe13f29b058cc40800000000000000
+      internalID: 5532760898515627880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_59
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 4
+        width: 146
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c206ada79ae73b0800000000000000
+      internalID: -5512782548740068323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_60
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 6
+        width: 148
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b398a1aa9887e94a0800000000000000
+      internalID: -6584693072509368005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_61
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 4
+        width: 155
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f72b4c48a1b8e3c70800000000000000
+      internalID: 8952746055272018559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewCharacterNightShift_62
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 4
+        width: 150
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e31bde1bb2a7730800000000000000
+      internalID: 3997555662441758362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

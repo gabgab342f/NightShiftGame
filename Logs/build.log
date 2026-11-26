@@ -1,0 +1,1743 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to the License Client on channel: "LicenseClient-gabri"
+[Licensing::Client] Error: Code 10 while verifying Licensing Client signature (process Id: 18536, path: "C:/Program Files/Unity Hub/UnityLicensingClient_V1/Unity.Licensing.Client.exe")
+[Licensing::Module] Error: LicensingClient has failed validation; ignoring
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.3+d7ffd15
+  Session Id:              89ab9ea2bb9347cab68d8fda961ca6af
+  Correlation Id:          37677b0f3e27c98e773ac73f63feb306
+  External correlation Id: 1988056272605786751
+  Machine Id:              pSuCBXP3uoCXcJQzhp44RHE4rKc=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-gabri" (connect: 0.00s, validation: 0.01s, handshake: 0.03s)
+[Licensing::IpcConnector] Successfully connected to the License Notification on channel: "LicenseClient-gabri-notifications"
+Entitlement-based licensing initiated
+[Licensing::Module] Error: Access token is unavailable; failed to update
+[Licensing::Client] Successfully updated license
+Built from '2020.3/release' branch; Version is '2020.3.49f1 (18249dd5551b) revision 1582237'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Professional' Language: 'en' Physical Memory: 16277 MB
+[Licensing::Client] Successfully resolved entitlements
+[Licensing::Module] Serial number assigned to: "F4-T348-3H8E-FGEN-EWB9-XXXX"
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+[Package Manager] Server::Start -- Port 60983 was selected
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.49f1\Editor\Unity.exe
+-batchmode
+-projectPath
+C:\Users\gabri\NightShiftGame
+-logFile
+C:\Users\gabri\NightShiftGame\Logs\build.log
+Successfully changed project path to: C:\Users\gabri\NightShiftGame
+C:/Users/gabri/NightShiftGame
+Using Asset Import Pipeline V2.
+Player connection [1076] Host "[IP] 192.168.254.103 [Port] 55496 [Flags] 2 [Guid] 672771315 [EditorId] 672771315 [Version] 1048832 [Id] WindowsEditor(7,Gabbyy) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [1076] Host "[IP] 192.168.254.103 [Port] 55496 [Flags] 2 [Guid] 672771315 [EditorId] 672771315 [Version] 1048832 [Id] WindowsEditor(7,Gabbyy) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Licensing::Client] Successfully resolved entitlements
+[Package Manager] Restoring resolved packages state from cache
+[Licensing::Client] Successfully resolved entitlement details
+[Package Manager] Done checking package constraints in 0.00s seconds
+[Package Manager] 
+Registered 51 packages:
+  Packages from [https://packages.unity.com]:
+    com.unity.2d.animation@5.2.7 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.2d.animation@5.2.7)
+    com.unity.2d.pixel-perfect@4.0.1 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.2d.pixel-perfect@4.0.1)
+    com.unity.2d.psdimporter@4.3.1 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.2d.psdimporter@4.3.1)
+    com.unity.2d.spriteshape@5.3.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.2d.spriteshape@5.3.0)
+    com.unity.collab-proxy@2.0.4 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.collab-proxy@2.0.4)
+    com.unity.ide.rider@3.0.21 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.ide.rider@3.0.21)
+    com.unity.ide.visualstudio@2.0.18 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.ide.visualstudio@2.0.18)
+    com.unity.ide.vscode@1.2.5 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.ide.vscode@1.2.5)
+    com.unity.test-framework@1.1.33 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.test-framework@1.1.33)
+    com.unity.textmeshpro@3.0.6 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.textmeshpro@3.0.6)
+    com.unity.timeline@1.4.8 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.timeline@1.4.8)
+    com.unity.ext.nunit@1.0.6 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.ext.nunit@1.0.6)
+    com.unity.2d.path@4.0.2 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.2d.path@4.0.2)
+    com.unity.mathematics@1.1.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.mathematics@1.1.0)
+    com.unity.2d.common@4.2.1 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.2d.common@4.2.1)
+  Built-in packages:
+    com.unity.2d.sprite@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.2d.sprite@1.0.0)
+    com.unity.2d.tilemap@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.2d.tilemap@1.0.0)
+    com.unity.ugui@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.ugui@1.0.0)
+    com.unity.modules.ai@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.ai@1.0.0)
+    com.unity.modules.androidjni@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.androidjni@1.0.0)
+    com.unity.modules.animation@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.animation@1.0.0)
+    com.unity.modules.assetbundle@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.assetbundle@1.0.0)
+    com.unity.modules.audio@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.audio@1.0.0)
+    com.unity.modules.cloth@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.cloth@1.0.0)
+    com.unity.modules.director@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.director@1.0.0)
+    com.unity.modules.imageconversion@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.imageconversion@1.0.0)
+    com.unity.modules.imgui@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.imgui@1.0.0)
+    com.unity.modules.jsonserialize@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0)
+    com.unity.modules.particlesystem@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.particlesystem@1.0.0)
+    com.unity.modules.physics@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.physics@1.0.0)
+    com.unity.modules.physics2d@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.physics2d@1.0.0)
+    com.unity.modules.screencapture@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.screencapture@1.0.0)
+    com.unity.modules.terrain@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.terrain@1.0.0)
+    com.unity.modules.terrainphysics@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0)
+    com.unity.modules.tilemap@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.tilemap@1.0.0)
+    com.unity.modules.ui@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.ui@1.0.0)
+    com.unity.modules.uielements@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.uielements@1.0.0)
+    com.unity.modules.umbra@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.umbra@1.0.0)
+    com.unity.modules.unityanalytics@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0)
+    com.unity.modules.unitywebrequest@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0)
+    com.unity.modules.unitywebrequestassetbundle@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0)
+    com.unity.modules.unitywebrequestaudio@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0)
+    com.unity.modules.unitywebrequesttexture@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0)
+    com.unity.modules.unitywebrequestwww@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0)
+    com.unity.modules.vehicles@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.vehicles@1.0.0)
+    com.unity.modules.video@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.video@1.0.0)
+    com.unity.modules.vr@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.vr@1.0.0)
+    com.unity.modules.wind@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.wind@1.0.0)
+    com.unity.modules.xr@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.xr@1.0.0)
+    com.unity.modules.subsystems@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.subsystems@1.0.0)
+    com.unity.modules.uielementsnative@1.0.0 (location: C:\Users\gabri\NightShiftGame\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0)
+
+[Subsystems] No new subsystems found in resolved package list.
+Package Manager log level set to [2]
+[Package Manager] Done registering packages in 0.07s seconds
+Refreshing native plugins compatible for Editor in 54.28 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.49f1 (18249dd5551b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.49f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/gabri/NightShiftGame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon RX 580 2048SP (ID=0x6fdf)
+    Vendor:   
+    VRAM:     8135 MB
+    Driver:   31.0.21921.1000
+[Licensing::Client] Successfully resolved entitlements
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.49f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.49f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.49f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56532
+AcceleratorClientConnectionCallback - disconnected - :0
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.49f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003151 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 39.16 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.521 seconds
+Domain Reload Profiling:
+	ReloadAssembly (522ms)
+		BeginReloadAssembly (56ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (397ms)
+			LoadAssemblies (54ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (119ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (23ms)
+			SetupLoadedEditorAssemblies (153ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (39ms)
+				BeforeProcessingInitializeOnLoad (8ms)
+				ProcessInitializeOnLoadAttributes (76ms)
+				ProcessInitializeOnLoadMethodAttributes (26ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.002028 seconds.
+[Licensing::Client] Successfully resolved entitlements
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.012791 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+Registering precompiled user dll's ...
+Registered in 0.002657 seconds.
+AssetDatabase: script compilation time: 0.044827s
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 33.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.984 seconds
+Domain Reload Profiling:
+	ReloadAssembly (986ms)
+		BeginReloadAssembly (135ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (22ms)
+		EndReloadAssembly (793ms)
+			LoadAssemblies (94ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (253ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (320ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (34ms)
+				BeforeProcessingInitializeOnLoad (57ms)
+				ProcessInitializeOnLoadAttributes (203ms)
+				ProcessInitializeOnLoadMethodAttributes (16ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 1977.756ms
+	InvokeBeforeRefreshCallbacks: 0.917ms
+	ApplyChangesToAssetFolders: 0.084ms
+	Scan: 112.081ms
+	OnSourceAssetsModified: 0.000ms
+	InitializeImportedAssetsSnapshot: 0.222ms
+	GetAllGuidsForCategorization: 0.307ms
+	CategorizeAssets: 35.441ms
+	ImportAndPostprocessOutOfDateAssets: 1766.292ms (1720.182ms without children)
+		CompileScripts: 45.559ms
+		PostProcessAllAssets: 0.001ms
+		EnsureUptoDateAssetsAreRegisteredWithGuidPM: 0.251ms
+		InitializingProgressBar: 0.007ms
+		PostProcessAllAssetNotificationsAddChangedAssets: 0.231ms
+		RestoreLoadedAssetsState: 0.061ms
+	ReloadSourceAssets: 0.268ms
+	UnloadImportedAssets: 0.008ms
+	Hotreload: 0.936ms
+	FixTempGuids: 0.004ms
+	GatherAllCurrentPrimaryArtifactRevisions: 0.000ms
+	UnloadStreamsBegin: 0.426ms
+	LoadedImportedAssetsSnapshotReleaseGCHandles: 0.006ms
+	GetLoadedSourceAssetsSnapshot: 0.090ms
+	PersistCurrentRevisions: 0.683ms
+	UnloadStreamsEnd: 8.258ms
+	GenerateScriptTypeHashes: 0.204ms
+	Untracked: 51.733ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Registering precompiled user dll's ...
+Registered in 0.002779 seconds.
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Refresh completed in 0.127703 seconds.
+RefreshInfo: RefreshV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 127.688ms
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 4.441ms
+Registering precompiled user dll's ...
+Registered in 0.003361 seconds.
+Refresh completed in 0.067135 seconds.
+RefreshInfo: RefreshV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 67.115ms
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Initializing Unity extensions:
+Unloading 83 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.5 MB.
+System memory in use after: 85.3 MB.
+
+Unloading 118 unused Assets to reduce memory usage. Loaded Objects now: 2527.
+Total: 3.822300 ms (FindLiveObjects: 0.160800 ms CreateObjectMapping: 0.083400 ms MarkObjects: 2.904500 ms  DeleteObjects: 0.672500 ms)
+
+ProgressiveSceneManager::Cancel()
+[Licensing::Client] Successfully resolved entitlements
+D3D11 device created for Microsoft Media Foundation video decoding.
+[Project] Loading completed in 6.472 seconds
+	Project init time: 				0.298 seconds
+		Template init time: 		0.000 seconds
+		Package Manager init time: 		0.000 seconds
+		Asset Database init time: 		0.000 seconds
+		Global illumination init time: 	0.000 seconds
+		Assemblies load time: 			0.000 seconds
+		Unity extensions init time: 	0.001 seconds
+		Asset Database refresh time: 	0.000 seconds
+	Scene opening time: 			0.120 seconds
+[MODES] ModeService[none].Initialize
+[MODES] ModeService[none].LoadModes
+[MODES] Loading mode Default (0) for mode-current-id-Night Shift
+[UnityConnectServicesConfig] config is NOT valid, switching to default
+Created GICache directory at C:/Users/gabri/AppData/LocalLow/Unity/Caches/GiCache. Took: 0.026s, timestamps: [6.476 - 6.502]
+gi::BakeBackendSwitch: switching bake backend from 3 to 1.
+[NightShiftBuilder] Layers ensured: 8=Blocking 9=Interactable 10=Player 11=Monster
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder:EnsureLayers () (at Assets/Editor/SchoolBuilder.cs:456)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:411)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+Registering precompiled user dll's ...
+Registered in 0.003002 seconds.
+Start importing Assets/Art/Generated/White.png using Guid(fb138e46691377b49b25f0715883c903) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '81139bb64ef7c517a4fba6d76339104c') in 0.040352 seconds 
+Refreshing native plugins compatible for Editor in 0.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 70.474ms
+Registering precompiled user dll's ...
+Registered in 0.002690 seconds.
+Start importing Assets/Art/Generated/White.png using Guid(fb138e46691377b49b25f0715883c903) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '81139bb64ef7c517a4fba6d76339104c') in 0.010860 seconds 
+Refreshing native plugins compatible for Editor in 0.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 30.529ms
+Registering precompiled user dll's ...
+Registered in 0.002529 seconds.
+Start importing Assets/Art/Generated/Floor.png using Guid(5eca1659d7e20964a8d4d988a093ed1a) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '62a21824bc47da796c060ba3825246fa') in 0.010694 seconds 
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 32.210ms
+Registering precompiled user dll's ...
+Registered in 0.002545 seconds.
+Start importing Assets/Art/Generated/Floor.png using Guid(5eca1659d7e20964a8d4d988a093ed1a) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '62a21824bc47da796c060ba3825246fa') in 0.009670 seconds 
+Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 30.033ms
+Registering precompiled user dll's ...
+Registered in 0.002634 seconds.
+Start importing Assets/Art/Generated/Wall.png using Guid(ef6c1507e1efcd94181594f5f22c0555) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '69f792ccad9ce8932ac2a2f0e1af16f2') in 0.009096 seconds 
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 29.170ms
+Registering precompiled user dll's ...
+Registered in 0.002579 seconds.
+Start importing Assets/Art/Generated/Wall.png using Guid(ef6c1507e1efcd94181594f5f22c0555) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '69f792ccad9ce8932ac2a2f0e1af16f2') in 0.011005 seconds 
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 31.130ms
+Registering precompiled user dll's ...
+Registered in 0.002883 seconds.
+Start importing Assets/Art/Generated/Furniture.png using Guid(7e1deab7290fc284bb24e793e6231404) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'cfa659422839dcbb6f280707dbc32dce') in 0.009489 seconds 
+Refreshing native plugins compatible for Editor in 0.43 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 31.850ms
+Registering precompiled user dll's ...
+Registered in 0.002916 seconds.
+Start importing Assets/Art/Generated/Furniture.png using Guid(7e1deab7290fc284bb24e793e6231404) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'cfa659422839dcbb6f280707dbc32dce') in 0.010507 seconds 
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 31.040ms
+Registering precompiled user dll's ...
+Registered in 0.003470 seconds.
+Start importing Assets/Art/Generated/Locker.png using Guid(ddbddb6893ed3a74e8cd4f224637fe61) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '00e264bd8071614e2f3aa946b498de8b') in 0.010030 seconds 
+Refreshing native plugins compatible for Editor in 0.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 32.773ms
+Registering precompiled user dll's ...
+Registered in 0.002841 seconds.
+Start importing Assets/Art/Generated/Locker.png using Guid(ddbddb6893ed3a74e8cd4f224637fe61) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '00e264bd8071614e2f3aa946b498de8b') in 0.010995 seconds 
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 31.593ms
+Registering precompiled user dll's ...
+Registered in 0.002455 seconds.
+Start importing Assets/Art/Generated/Door.png using Guid(742e4c770c0cbd940acbd1e6f8a59844) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '0d8fde82223ffefbde0f9aae1984378c') in 0.009735 seconds 
+Refreshing native plugins compatible for Editor in 0.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 29.209ms
+Registering precompiled user dll's ...
+Registered in 0.002599 seconds.
+Start importing Assets/Art/Generated/Door.png using Guid(742e4c770c0cbd940acbd1e6f8a59844) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '0d8fde82223ffefbde0f9aae1984378c') in 0.010345 seconds 
+Refreshing native plugins compatible for Editor in 0.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 30.240ms
+Registering precompiled user dll's ...
+Registered in 0.003098 seconds.
+Start importing Assets/Art/Generated/Sparkle.png using Guid(7ea3fa66c40023444a23aad88958799c) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '3d7aca094bd5cc0da625fef48c1a73b3') in 0.010226 seconds 
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 32.072ms
+Registering precompiled user dll's ...
+Registered in 0.002437 seconds.
+Start importing Assets/Art/Generated/Sparkle.png using Guid(7ea3fa66c40023444a23aad88958799c) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '3d7aca094bd5cc0da625fef48c1a73b3') in 0.009175 seconds 
+Refreshing native plugins compatible for Editor in 0.50 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 28.858ms
+Registering precompiled user dll's ...
+Registered in 0.002735 seconds.
+Start importing Assets/Art/Generated/FlashlightCone.png using Guid(601be2c2db90a5449abd334a93ecfcd5) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '76251dea444d96c01b45f4961c928d51') in 0.016901 seconds 
+Refreshing native plugins compatible for Editor in 0.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 37.828ms
+Registering precompiled user dll's ...
+Registered in 0.002996 seconds.
+Start importing Assets/Art/Generated/FlashlightCone.png using Guid(601be2c2db90a5449abd334a93ecfcd5) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '76251dea444d96c01b45f4961c928d51') in 0.019276 seconds 
+Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 42.865ms
+Registering precompiled user dll's ...
+Registered in 0.002809 seconds.
+Start importing Assets/Art/Generated/Glow.png using Guid(b8456524ef8dcc8469e6b9b56a1d9aaa) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'd09cdbaee6268b03e11d0b7869476d63') in 0.016609 seconds 
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 36.558ms
+Registering precompiled user dll's ...
+Registered in 0.002414 seconds.
+Start importing Assets/Art/Generated/Glow.png using Guid(b8456524ef8dcc8469e6b9b56a1d9aaa) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'd09cdbaee6268b03e11d0b7869476d63') in 0.016449 seconds 
+Refreshing native plugins compatible for Editor in 0.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 34.806ms
+Registering precompiled user dll's ...
+Registered in 0.002861 seconds.
+Start importing Assets/Art/Generated/MonsterEye.png using Guid(38e4e71aa089b154eafbd9c3cc5e27bc) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '3b71ebdf6372554437483fc82f47b581') in 0.015009 seconds 
+Refreshing native plugins compatible for Editor in 0.42 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 35.261ms
+Registering precompiled user dll's ...
+Registered in 0.002544 seconds.
+Start importing Assets/Art/Generated/MonsterEye.png using Guid(38e4e71aa089b154eafbd9c3cc5e27bc) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '3b71ebdf6372554437483fc82f47b581') in 0.016501 seconds 
+Refreshing native plugins compatible for Editor in 0.46 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 36.921ms
+Registering precompiled user dll's ...
+Registered in 0.002930 seconds.
+Start importing Assets/Art/Generated/RedVignette.png using Guid(94b3360db8d51e34d9c6da6605157aa2) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '538c88f2729a5735884d57f7e1d68063') in 0.017173 seconds 
+Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 42.199ms
+Registering precompiled user dll's ...
+Registered in 0.002620 seconds.
+Start importing Assets/Art/Generated/RedVignette.png using Guid(94b3360db8d51e34d9c6da6605157aa2) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '538c88f2729a5735884d57f7e1d68063') in 0.016604 seconds 
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 39.316ms
+Registering precompiled user dll's ...
+Registered in 0.002313 seconds.
+Start importing Assets/Art/Generated/LockerVent.png using Guid(4fae90e5140f0f74a9d820d1b8eebe1c) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '316456d7d782397c552e7b68feba2383') in 0.010146 seconds 
+Refreshing native plugins compatible for Editor in 0.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 30.735ms
+Registering precompiled user dll's ...
+Registered in 0.002574 seconds.
+Start importing Assets/Art/Generated/LockerVent.png using Guid(4fae90e5140f0f74a9d820d1b8eebe1c) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '316456d7d782397c552e7b68feba2383') in 0.009339 seconds 
+Refreshing native plugins compatible for Editor in 0.38 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 28.063ms
+[NightShiftBuilder] Loaded 63 player and 20 npc slices.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder:BuildArtAssets () (at Assets/Editor/SchoolBuilder.cs:529)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:413)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+Unloading 16 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 95.7 MB.
+System memory in use after: 95.8 MB.
+
+Unloading 179 unused Assets to reduce memory usage. Loaded Objects now: 2555.
+Total: 5.199700 ms (FindLiveObjects: 0.119600 ms CreateObjectMapping: 0.051300 ms MarkObjects: 4.682100 ms  DeleteObjects: 0.345800 ms)
+
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 9.301ms
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 3.078ms
+[NightShiftBuilder] Painted 1281 floor, 861 wall, 68 furniture tiles.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder:BuildGrid (SchoolBuilder/Art) (at Assets/Editor/SchoolBuilder.cs:817)
+SchoolBuilder:BuildSchoolScene (SchoolBuilder/Art) (at Assets/Editor/SchoolBuilder.cs:726)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:415)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+Registering precompiled user dll's ...
+Registered in 0.003506 seconds.
+Start importing Assets/Scenes/School.unity using Guid(f32fd7975b0922242b3abc4cc6751ad3) Importer(-1,00000000000000000000000000000000)  -> (artifact id: 'b5dcd30b49ba0ae33e0e81d3d98acc5c') in 0.000643 seconds 
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 35.072ms
+[NightShiftBuilder] Saved Assets/Scenes/School.unity
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder:BuildSchoolScene (SchoolBuilder/Art) (at Assets/Editor/SchoolBuilder.cs:736)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:415)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.0 MB.
+System memory in use after: 98.1 MB.
+
+Unloading 115 unused Assets to reduce memory usage. Loaded Objects now: 2571.
+Total: 6.938300 ms (FindLiveObjects: 0.102700 ms CreateObjectMapping: 0.045900 ms MarkObjects: 6.526200 ms  DeleteObjects: 0.262300 ms)
+
+Registering precompiled user dll's ...
+Registered in 0.003324 seconds.
+Start importing Assets/Scenes/Title.unity using Guid(d75867e9a7aeede4a844b2f224f61611) Importer(-1,00000000000000000000000000000000)  -> (artifact id: '80419b5f4684ea2c204e18bf12599669') in 0.000986 seconds 
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+RefreshInfo: StopAssetImportingV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 33.984ms
+[NightShiftBuilder] Saved Assets/Scenes/Title.unity
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder:BuildTitleScene () (at Assets/Editor/SchoolBuilder.cs:1495)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:416)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+Refresh completed in 0.024607 seconds.
+RefreshInfo: RefreshV2(NoUpdateAssetOptions) scanfilter: 
+RefreshProfiler: Total: 24.569ms
+[NightShiftBuilder] BUILD OK: School.unity, Title.unity, build settings written.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:426)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  build settings has 2 scenes
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:178)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  Title is scene 0
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:179)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  School is scene 1
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:180)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  both scenes enabled
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:181)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+Opening scene 'Assets/Scenes/School.unity'
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/School.unity'
+	Deserialize:            23.521 ms
+	Integration:            26.806 ms
+	Integration of assets:  1.830 ms
+	Thread Wait Time:       0.014 ms
+	Total Operation Time:   52.172 ms
+System memory in use before: 99.6 MB.
+System memory in use after: 99.9 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3313.
+Total: 10.089500 ms (FindLiveObjects: 0.510800 ms CreateObjectMapping: 0.220700 ms MarkObjects: 9.319500 ms  DeleteObjects: 0.037100 ms)
+
+[NightShiftBuilder] PASS  GameManager present
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:187)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  GameManager.player wired
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:190)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  GameManager.monsterPrefab wired
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:191)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  PlayerController present
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:195)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  player body renderer
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:198)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  player flashlight
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:199)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  player animator
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:200)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  player animator controller
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:201)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  flashlight is additive
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:204)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  GridMap present
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:211)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  GridMap blocks layer 8
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:212)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  LightingController present
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:215)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  LightingController.flashlight wired
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:216)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  LightingController.glow wired
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:217)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  AudioManager present
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:220)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  AudioManager has 3 sources
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:221)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  DialogueManager panel + text
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:226)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  KeypadUI panel + input + status
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:230)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  UIManager fully wired
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:234)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  WorldTint present
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:239)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  additive shader found
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:240)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  curse student present
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:243)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  curse student body + frames
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:244)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  curse student gated on the janitor story
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:247)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  curse student cell is floor
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:249)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  janitor present
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:252)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  janitor body + animator
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:253)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  janitor cell is floor
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:256)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  scare overlay wired
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:257)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  13 story interactables (13)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:267)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  every interactable has a collider
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:271)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  4 note interactables
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:273)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  4 item pickups
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:274)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  faculty keypad code 0417
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:275)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  fuse box wired
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:278)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  main exit door wired
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:279)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  interaction prompt wired
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:281)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  keys HUD wired
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:282)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  24 lockers (24)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:285)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  no stray locker at the origin
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:286)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  all doors are on the Blocking layer
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:297)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  lab door is a sensor door
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:299)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  electrical door needs the electrical key
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:303)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  all lockers are on the Blocking layer
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:308)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  notes and pickups are on the Interactable layer
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:316)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  closed faculty door blocks (21,-12)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:321)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  closed lab door blocks (45,-16)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:322)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  closed electrical door blocks (35,-16)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:323)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  main lobby doors start open
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:327)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  player start is walkable
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:328)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  open doorway (7,-12) is walkable
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:329)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  room 4-A interior is walkable
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:330)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  no painted wall cell is walkable
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:346)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  painted cells match the tables (2210)
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:362)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  no locker or door cell is painted over
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:364)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  player start is floor
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:369)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  player start is clear of furniture
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:370)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  player start has no locker
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:371)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  all locker cells inside the grid
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:378)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+Opening scene 'Assets/Scenes/Title.unity'
+Unloading 27 Unused Serialized files (Serialized files now loaded: 0)
+Loaded scene 'Assets/Scenes/Title.unity'
+	Deserialize:            2.118 ms
+	Integration:            6.031 ms
+	Integration of assets:  0.002 ms
+	Thread Wait Time:       0.021 ms
+	Total Operation Time:   8.172 ms
+System memory in use before: 98.4 MB.
+System memory in use after: 98.5 MB.
+
+Unloading 96 unused Assets to reduce memory usage. Loaded Objects now: 2614.
+Total: 8.185300 ms (FindLiveObjects: 0.363300 ms CreateObjectMapping: 0.177200 ms MarkObjects: 7.340200 ms  DeleteObjects: 0.303700 ms)
+
+[NightShiftBuilder] PASS  title canvas
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:382)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  title start button exists
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:384)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  start button has a persistent listener
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:388)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftBuilder] PASS  title has an EventSystem
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder/<>c__DisplayClass39_0:<Validate>b__0 (string,bool) (at Assets/Editor/SchoolBuilder.cs:172)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:391)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.3 MB.
+System memory in use after: 98.4 MB.
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 2572.
+Total: 8.827300 ms (FindLiveObjects: 0.244500 ms CreateObjectMapping: 0.173100 ms MarkObjects: 8.398800 ms  DeleteObjects: 0.009800 ms)
+
+[NightShiftBuilder] VALIDATION: 67 passed, 0 failed.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+SchoolBuilder:Log (string) (at Assets/Editor/SchoolBuilder.cs:1513)
+SchoolBuilder:Validate () (at Assets/Editor/SchoolBuilder.cs:397)
+SchoolBuilder:BuildAll () (at Assets/Editor/SchoolBuilder.cs:427)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:45)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/SchoolBuilder.cs Line: 1513)
+
+[NightShiftAutoBuild] stage 'build' finished.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:Log (object)
+NightShiftAutoBuild:Run () (at Assets/Editor/NightShiftAutoBuild.cs:53)
+NightShiftAutoBuild:WaitForEditor () (at Assets/Editor/NightShiftAutoBuild.cs:35)
+UnityEditor.EditorApplication:Internal_CallUpdateFunctions ()
+
+(Filename: Assets/Editor/NightShiftAutoBuild.cs Line: 53)
+
+[Performance] WinEditorMain                                                 :        1 samples, Peak.  1.59 s (1.0x), Avg.  1.59 s, Total. 1.591 s (19.7%)
+[Performance] WinEditorMain.ConfigureCrashHandler                           :        1 samples, Peak.  25.8 us (1.0x), Avg.  25.8 us, Total. 25.80 us (0.0%)
+[Performance] WinEditorMain.CurlRequestInitialize                           :        1 samples, Peak.   529 us (1.0x), Avg.   529 us, Total. 529.3 us (0.0%)
+[Performance] WinEditorMain.SetupLogFile                                    :        1 samples, Peak.   543 us (1.0x), Avg.   543 us, Total. 542.7 us (0.0%)
+[Performance] WinEditorMain.RunNativeTestsIfRequiredAndExit                 :        1 samples, Peak.   300 ns (1.0x), Avg.   300 ns, Total. 300.0 ns (0.0%)
+[Performance] WinEditorMain.Licensing                                       :        1 samples, Peak.  1.58 s (1.0x), Avg.  1.58 s, Total. 1.576 s (19.5%)
+[Performance] WinEditorMain.InitializeCrashHandler                          :        1 samples, Peak.  12.3 ms (1.0x), Avg.  12.3 ms, Total. 12.34 ms (0.2%)
+[Performance] WinEditorMain.CreateApplication                               :        1 samples, Peak.   221 us (1.0x), Avg.   221 us, Total. 220.8 us (0.0%)
+[Performance] Application.InitializeProject                                 :        1 samples, Peak.  4.72 s (1.0x), Avg.  4.72 s, Total. 4.717 s (58.3%)
+[Performance] Application.PackageManager.StartServer                        :        1 samples, Peak.  7.24 ms (1.0x), Avg.  7.24 ms, Total. 7.238 ms (0.1%)
+[Performance] Application.AcquireProjectLock                                :        1 samples, Peak.  3.82 ms (1.0x), Avg.  3.82 ms, Total. 3.822 ms (0.0%)
+[Performance] Application.InitializeEngineNoGraphics                        :        1 samples, Peak.  17.4 ms (1.0x), Avg.  17.4 ms, Total. 17.44 ms (0.2%)
+[Performance] Application.PackageManager.Initialize                         :        1 samples, Peak.  1.07 s (1.0x), Avg.  1.07 s, Total. 1.067 s (13.2%)
+[Performance] CurlRequestCheck                                              :       19 samples, Peak.  57.3 us (7.3x), Avg.  7.86 us, Total. 149.3 us (0.0%)
+[Performance] VersionControl.Task.Wait                                      :        1 samples, Peak.  21.3 us (1.0x), Avg.  21.3 us, Total. 21.30 us (0.0%)
+[Performance] Application.EngineGraphics.Initialize                         :        1 samples, Peak.   102 ms (1.0x), Avg.   102 ms, Total. 102.4 ms (1.3%)
+[Performance] Application.GI.Initialize                                     :        1 samples, Peak.  1.70 ms (1.0x), Avg.  1.70 ms, Total. 1.703 ms (0.0%)
+[Performance] Application.LoadAllDefaultResourcesFromEditor                 :        1 samples, Peak.  2.41 ms (1.0x), Avg.  2.41 ms, Total. 2.406 ms (0.0%)
+[Performance] Application.LoadMonoAssemblies                                :        1 samples, Peak.   531 ms (1.0x), Avg.   531 ms, Total. 530.8 ms (6.6%)
+[Performance] RestoreManagedReferences                                      :        2 samples, Peak.  57.6 ms (2.0x), Avg.  28.8 ms, Total. 57.62 ms (0.7%)
+[Performance] ProcessService.EditorAfterLoadAllAssemblies                   :        2 samples, Peak.   315 us (1.1x), Avg.   274 us, Total. 548.2 us (0.0%)
+[Performance] Application.ReadLicenseInfo                                   :        1 samples, Peak.  14.0 ms (1.0x), Avg.  14.0 ms, Total. 13.97 ms (0.2%)
+[Performance] Application.InitialScriptRefresh                              :        1 samples, Peak.  1.98 s (1.0x), Avg.  1.98 s, Total. 1.980 s (24.5%)
+[Performance] Compiling Scripts                                             :        1 samples, Peak.  45.5 ms (1.0x), Avg.  45.5 ms, Total. 45.51 ms (0.6%)
+[Performance] Application.AssetDatabase.Refresh                             :        1 samples, Peak.   128 ms (1.0x), Avg.   128 ms, Total. 127.8 ms (1.6%)
+[Performance] AssetDatabase.Refresh                                         :        2 samples, Peak.   128 ms (1.7x), Avg.  76.2 ms, Total. 152.5 ms (1.9%)
+[Performance] AssetDatabase.ImportAssets                                    :       33 samples, Peak.  1.50 us (2.7x), Avg.   561 ns, Total. 18.50 us (0.0%)
+[Performance] SpriteShapeAssetPostProcessor.OnPostprocessAllAssets          :       27 samples, Peak.   757 us (10.4x), Avg.  72.6 us, Total. 1.961 ms (0.0%)
+[Performance] AssetPostprocessor.OnPostprocessAllAssets                     :       27 samples, Peak.   237 us (21.1x), Avg.  11.2 us, Total. 303.1 us (0.0%)
+[Performance] PSDImportPostProcessor.OnPostprocessAllAssets                 :       27 samples, Peak.   207 us (21.9x), Avg.  9.43 us, Total. 254.7 us (0.0%)
+[Performance] SpriteEditorTexturePostprocessor.OnPostprocessAllAssets       :       27 samples, Peak.   325 us (10.3x), Avg.  31.6 us, Total. 852.2 us (0.0%)
+[Performance] TMPro_TexturePostProcessor.OnPostprocessAllAssets             :       27 samples, Peak.  2.76 ms (6.1x), Avg.   454 us, Total. 12.27 ms (0.2%)
+[Performance] AssetProcessor.OnPostprocessAllAssets                         :       81 samples, Peak.  1.92 ms (35.7x), Avg.  53.9 us, Total. 4.363 ms (0.1%)
+[Performance] RetainedMode.OnPostprocessAllAssets                           :       27 samples, Peak.   694 us (16.9x), Avg.  41.0 us, Total. 1.108 ms (0.0%)
+[Performance] EditorAtlasMonitorInjector.OnPostprocessAllAssets             :       27 samples, Peak.   175 us (15.5x), Avg.  11.3 us, Total. 305.6 us (0.0%)
+[Performance] SpeedTreePostProcessor.OnPostprocessAllAssets                 :       27 samples, Peak.   297 us (17.0x), Avg.  17.5 us, Total. 471.6 us (0.0%)
+[Performance] AudioMixerPostprocessor.OnPostprocessAllAssets                :       27 samples, Peak.   431 us (24.5x), Avg.  17.6 us, Total. 475.8 us (0.0%)
+[Performance] AssetEvents.OnPostprocessAllAssets                            :       54 samples, Peak.   286 us (33.3x), Avg.  8.59 us, Total. 463.6 us (0.0%)
+[Performance] ModelImporterPostProcessor.OnPostprocessAllAssets             :       27 samples, Peak.  1.58 ms (13.6x), Avg.   116 us, Total. 3.141 ms (0.0%)
+[Performance] StyleCatalogPostProcessor.OnPostprocessAllAssets              :       27 samples, Peak.  45.9 ms (26.9x), Avg.  1.71 ms, Total. 46.10 ms (0.6%)
+[Performance] BuildCatalog                                                  :        1 samples, Peak.  44.5 ms (1.0x), Avg.  44.5 ms, Total. 44.54 ms (0.6%)
+[Performance] Application.ImportAssetsWithMismatchingAssetImporterVersion   :        1 samples, Peak.  85.6 ms (1.0x), Avg.  85.6 ms, Total. 85.57 ms (1.1%)
+[Performance] Application.SyncCurrentColorSpace                             :        1 samples, Peak.  86.6 ms (1.0x), Avg.  86.6 ms, Total. 86.62 ms (1.1%)
+[Performance] Application.OnUsbDevicesChanged                               :        1 samples, Peak.  12.2 ms (1.0x), Avg.  12.2 ms, Total. 12.16 ms (0.2%)
+[Performance] Application.AssetInstanceCacheUpdate                          :        1 samples, Peak.   600 ns (1.0x), Avg.   600 ns, Total. 600.0 ns (0.0%)
+[Performance] Application.UnityExtensions.Initialize                        :        1 samples, Peak.  1.31 ms (1.0x), Avg.  1.31 ms, Total. 1.312 ms (0.0%)
+[Performance] Application.InitializeManagedCompilationPipeline              :        1 samples, Peak.  58.6 ms (1.0x), Avg.  58.6 ms, Total. 58.57 ms (0.7%)
+[Performance] Application.ExecuteStartups                                   :        1 samples, Peak.  79.3 ms (1.0x), Avg.  79.3 ms, Total. 79.29 ms (1.0%)
+[Performance] Gizmo.RebuildRenderers                                        :        1 samples, Peak.  65.6 ms (1.0x), Avg.  65.6 ms, Total. 65.64 ms (0.8%)
+[Performance] Gizmo.AddGizmoRenderers                                       :       51 samples, Peak.  1.24 ms (28.0x), Avg.  44.3 us, Total. 2.258 ms (0.0%)
+[Performance] Application.InitializeMenu                                    :        1 samples, Peak.  50.5 ms (1.0x), Avg.  50.5 ms, Total. 50.46 ms (0.6%)
+[Performance] UpdateAllMenus                                                :       17 samples, Peak.  48.6 ms (16.8x), Avg.  2.89 ms, Total. 49.08 ms (0.6%)
+[Performance] Application.editorInitializingProject                         :        1 samples, Peak.  25.0 us (1.0x), Avg.  25.0 us, Total. 25.00 us (0.0%)
+[Performance] Application.FinishLoadingProject                              :        1 samples, Peak.   120 ms (1.0x), Avg.   120 ms, Total. 120.3 ms (1.5%)
+[Performance] GUIView.RepaintAll.PlayerLoopController                       :        5 samples, Peak.  2.30 us (1.5x), Avg.  1.58 us, Total. 7.900 us (0.0%)
+[Performance] Application.InvokeFinishedLoadingProject                      :        1 samples, Peak.  69.7 ms (1.0x), Avg.  69.7 ms, Total. 69.68 ms (0.9%)
+[Performance] ProcessService.OnProjectLoaded                                :        1 samples, Peak.  48.0 us (1.0x), Avg.  48.0 us, Total. 48.00 us (0.0%)
+[Performance] Application.InvokeProjectWasLoaded                            :        1 samples, Peak.  83.2 us (1.0x), Avg.  83.2 us, Total. 83.20 us (0.0%)
+[Performance] Application.Message                                           :        2 samples, Peak.  34.1 us (2.0x), Avg.  17.4 us, Total. 34.80 us (0.0%)
+[Performance] Application.Message.WM_0031F                                  :        1 samples, Peak.  8.80 us (1.0x), Avg.  8.80 us, Total. 8.800 us (0.0%)
+[Performance] Application.Tick                                              :        1 samples, Peak.   121 ms (1.0x), Avg.   121 ms, Total. 121.1 ms (1.5%)
+[Performance] CheckLicensingClient                                          :        1 samples, Peak.  8.90 us (1.0x), Avg.  8.90 us, Total. 8.900 us (0.0%)
+[Performance] CheckLicensingClientNotification                              :        1 samples, Peak.   122 us (1.0x), Avg.   122 us, Total. 122.4 us (0.0%)
+[Performance] Application.TickVersionControl                                :        2 samples, Peak.  1.90 us (1.2x), Avg.  1.65 us, Total. 3.300 us (0.0%)
+[Performance] MonoCompiler.Tick                                             :        1 samples, Peak.  6.40 us (1.0x), Avg.  6.40 us, Total. 6.400 us (0.0%)
+[Performance] UnityConnect.Tick                                             :        2 samples, Peak.   518 us (1.8x), Avg.   294 us, Total. 588.9 us (0.0%)
+[Performance] Collab.Tick                                                   :        2 samples, Peak.  5.50 us (1.8x), Avg.  3.10 us, Total. 6.200 us (0.0%)
+[Performance] CurlRequest.Tick                                              :        2 samples, Peak.   800 ns (1.1x), Avg.   750 ns, Total. 1.500 us (0.0%)
+[Performance] WebSocketClient.Tick                                          :        2 samples, Peak.   400 ns (1.3x), Avg.   300 ns, Total. 600.0 ns (0.0%)
+[Performance] AssetDatabase.Tick                                            :        2 samples, Peak.  78.4 us (2.0x), Avg.  39.4 us, Total. 78.70 us (0.0%)
+[Performance] SceneBackgroundTask.Tick                                      :        1 samples, Peak.   400 ns (1.0x), Avg.   400 ns, Total. 400.0 ns (0.0%)
+[Performance] Scheduler.Tick                                                :        2 samples, Peak.  2.36 ms (2.0x), Avg.  1.18 ms, Total. 2.366 ms (0.0%)
+[Performance] RepaintAllProfilerWindows                                     :        1 samples, Peak.   253 us (1.0x), Avg.   253 us, Total. 252.8 us (0.0%)
+[Performance] PlayerUpdates.Tick                                            :        2 samples, Peak.  24.4 us (1.0x), Avg.  23.6 us, Total. 47.20 us (0.0%)
+[Performance] Application.TickGlobalCallbacks                               :        2 samples, Peak.   922 us (1.3x), Avg.   736 us, Total. 1.472 ms (0.0%)
+[Performance] CoreBusinessMetrics.Tick                                      :        1 samples, Peak.   110 us (1.0x), Avg.   110 us, Total. 109.9 us (0.0%)
+[Performance] EditorAnalytics.Tick                                          :        1 samples, Peak.  9.00 us (1.0x), Avg.  9.00 us, Total. 9.000 us (0.0%)
+[Performance] GI.Tick                                                       :        2 samples, Peak.   916 us (1.9x), Avg.   470 us, Total. 939.7 us (0.0%)
+[Performance] Video.Update                                                  :        2 samples, Peak.   700 ns (1.1x), Avg.   650 ns, Total. 1.300 us (0.0%)
+[Performance] UnitySynchronization.ExecuteTasks                             :        2 samples, Peak.  3.70 us (1.2x), Avg.  3.05 us, Total. 6.100 us (0.0%)
+[Performance] Application.TickPreloadManager                                :        2 samples, Peak.  5.70 us (1.1x), Avg.  5.00 us, Total. 10.000 us (0.0%)
+[Performance] Application.TickProgress                                      :        2 samples, Peak.  1.00 us (1.2x), Avg.   850 ns, Total. 1.700 us (0.0%)
+[Performance] Application.TickSceneTracker                                  :        1 samples, Peak.  81.2 ms (1.0x), Avg.  81.2 ms, Total. 81.16 ms (1.0%)
+[Performance] EditorApplication.update                                      :        1 samples, Peak.  81.0 ms (1.0x), Avg.  81.0 ms, Total. 81.04 ms (1.0%)
+[Performance] ConsoleLog.Tick                                               :        1 samples, Peak.   281 us (1.0x), Avg.   281 us, Total. 280.5 us (0.0%)
+[Performance] HierarchyWindow.Tick                                          :        1 samples, Peak.  2.00 ms (1.0x), Avg.  2.00 ms, Total. 1.997 ms (0.0%)
+[Performance] Inspector.Tick                                                :        1 samples, Peak.  32.3 ms (1.0x), Avg.  32.3 ms, Total. 32.32 ms (0.4%)
+[Performance] Tooltip.Tick                                                  :        1 samples, Peak.  41.4 us (1.0x), Avg.  41.4 us, Total. 41.40 us (0.0%)
+[Performance] Application.RequestRepaintForPanels                           :        1 samples, Peak.   330 us (1.0x), Avg.   330 us, Total. 329.9 us (0.0%)
+[Performance] Application.UpdateScene                                       :        1 samples, Peak.   202 us (1.0x), Avg.   202 us, Total. 202.4 us (0.0%)
+[Performance] Application.UpdateTextureStreaming                            :        1 samples, Peak.  5.00 us (1.0x), Avg.  5.00 us, Total. 5.000 us (0.0%)
+[Performance] Application.UpdateVideoTextures                               :        1 samples, Peak.   400 ns (1.0x), Avg.   400 ns, Total. 400.0 ns (0.0%)
+[Performance] PackageImporter.Tick                                          :        1 samples, Peak.   800 ns (1.0x), Avg.   800 ns, Total. 800.0 ns (0.0%)
+[Performance] InspectorBackground.Tick                                      :        1 samples, Peak.  1.70 us (1.0x), Avg.  1.70 us, Total. 1.700 us (0.0%)
+[Performance] Application.ChangeLayoutIfNeeded                              :        1 samples, Peak.   300 ns (1.0x), Avg.   300 ns, Total. 300.0 ns (0.0%)
+[Performance] AsyncReadManager.ForceCloseFiles                              :        1 samples, Peak.  88.3 us (1.0x), Avg.  88.3 us, Total. 88.30 us (0.0%)
+[Performance] AssetDatabase.ImportAsset                                     :       26 samples, Peak.  70.7 ms (2.0x), Avg.  35.0 ms, Total. 909.9 ms (11.2%)
+[Performance] PresetManagerPostProcessor.OnPreprocessAsset                  :       26 samples, Peak.   223 us (11.2x), Avg.  20.0 us, Total. 520.7 us (0.0%)
+[Performance] CancelSplashScreenOnAssetChange.OnPreprocessAsset             :       26 samples, Peak.   180 us (20.1x), Avg.  8.93 us, Total. 232.2 us (0.0%)
+[Performance] TextureImporter.Import                                        :       24 samples, Peak.  26.1 ms (8.7x), Avg.  2.99 ms, Total. 71.69 ms (0.9%)
+[Performance] EditorAtlasMonitorInjector.OnPostprocessTexture               :       24 samples, Peak.   236 us (14.5x), Avg.  16.3 us, Total. 390.2 us (0.0%)
+[Performance] SpritePostProcess.OnPostprocessSprites                        :       24 samples, Peak.  15.6 ms (18.0x), Avg.   866 us, Total. 20.78 ms (0.3%)
+[Performance] PSDImportPostProcessor.OnPostprocessSprites                   :       24 samples, Peak.   849 us (18.3x), Avg.  46.4 us, Total. 1.115 ms (0.0%)
+[Performance] SceneDataContainer.TransformHierarchyChangedSetParentCallback :      150 samples, Peak.  12.1 us (12.7x), Avg.   954 ns, Total. 143.1 us (0.0%)
+[Performance] SceneVisibilityState.IsFlagSetInParents                       :      231 samples, Peak.  1.90 us (4.9x), Avg.   389 ns, Total. 89.90 us (0.0%)
+[Performance] Inspector.InitOrRebuild                                       :        2 samples, Peak.  4.87 ms (1.9x), Avg.  2.56 ms, Total. 5.121 ms (0.1%)
+[Performance] Application.Shutdown.SaveSceneManagerSetup                    :        1 samples, Peak.   435 us (1.0x), Avg.   435 us, Total. 434.6 us (0.0%)
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 3e80 -> priority: 1 
+  Thread -> id: 3184 -> priority: 1 
+  Thread -> id: 2184 -> priority: 1 
+  Thread -> id: 455c -> priority: 1 
+  Thread -> id: 200c -> priority: 1 
+  Thread -> id: 4cdc -> priority: 1 
+[Licensing::IpcConnector] License Notification channel disconnected successfully.
+[Licensing::IpcConnector] License Client channel disconnected successfully.
+AcceleratorClientConnectionCallback - disconnected - :0
+Cleanup mono
+Checking for leaked weakptr:
+  Found no leaked weakptrs.
+[Package Manager] Server::Kill -- Server was shutdown
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1791535925964,"processId":17532,"allocatedMemory":449033,"memoryLabels":[{"Default":836},{"Permanent":384},{"NewDelete":109632},{"Thread":95},{"Manager":2360},{"Texture":152},{"GfxDevice":196808},{"FontEngine":4096},{"Physics":1},{"Serialization":456},{"File":8450},{"String":35071},{"DynamicArray":24798},{"HashMap":20923},{"Utility":400},{"Curl":3531},{"PoolAlloc":176},{"GI":336},{"VR":1888},{"Subsystems":96},{"EditorGui":56},{"EditorUtility":1552},{"AssetDatabase":7477},{"RestService":312},{"UnityConnect":28368},{"Collab":779}]}
+debugger-agent: Unable to listen on 4384
